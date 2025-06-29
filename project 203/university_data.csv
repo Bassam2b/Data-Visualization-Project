@@ -1,0 +1,1301 @@
+StudentID,College,Name,Age,GPA,Gender,Major,AcademicYear,Activity
+1,IT,Student_1,17,3.93,Male,Information Technology,2,Football
+2,IT,Student_2,22,2.28,Female,Information Technology,1,Youga
+3,Science,Student_3,28,1.39,Male,Physics,4,Art
+4,Engineering,Student_4,23,0.57,Female,Power Engineering,2,Chess
+5,IT,Student_5,18,2.36,Female,Information Technology,1,Football
+6,Science,Student_6,18,1.89,Male,Mathematics,1,Youga
+7,Business,Student_7,25,0.77,Female,project Management,4,Youga
+8,Geology,Student_8,30,0.02,Female,Minerals,4,Chess
+9,Business,Student_9,23,4.0,Female,project Management,4,Youga
+10,Engineering,Student_10,21,2.41,Male,Renewable Energy Engineering,1,Youga
+11,IT,Student_11,22,1.09,Female,Information Technology,1,Youga
+12,Business,Student_12,18,1.67,Female,Finance and Investment Management,4,Art
+13,Business,Student_13,24,1.26,Male,project Management,4,Chess
+14,Geology,Student_14,19,0.02,Male,Minerals,4,Football
+15,Business,Student_15,22,2.71,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+16,IT,Student_16,28,2.54,Female,Information Technology,4,Chess
+17,IT,Student_17,27,3.75,Male,Data Science and Artificial Intelligence,4,Art
+18,IT,Student_18,26,3.18,Female,Information Technology,4,Chess
+19,Geology,Student_19,16,1.35,Female,Earth Geology,1,Chess
+20,IT,Student_20,19,3.02,Female,Software Development,2,Youga
+21,Geology,Student_21,23,2.55,Female,Crystals,2,Art
+22,IT,Student_22,20,3.1,Female,Data Science and Artificial Intelligence,1,Youga
+23,Science,Student_23,21,1.69,Male,Physics,2,Chess
+24,IT,Student_24,21,2.73,Female,Software Development,2,Art
+25,Science,Student_25,30,1.08,Female,Mathematics,4,Art
+26,IT,Student_26,24,3.86,Male,Data Science and Artificial Intelligence,3,Art
+27,Science,Student_27,17,0.96,Female,Mathematics,4,Youga
+28,Engineering,Student_28,28,3.53,Male,Mechanical design and production department,4,Art
+29,Geology,Student_29,23,0.95,Male,Crystals,2,Football
+30,Engineering,Student_30,19,3.63,Female,Nanotechnology,1,Youga
+31,IT,Student_31,28,0.61,Male,Software Development,4,Art
+32,IT,Student_32,16,3.83,Female,Information Technology,5,Chess
+33,Science,Student_33,27,0.68,Female,Mathematics,4,Football
+34,Geology,Student_34,29,0.68,Female,Crystals,4,Art
+35,IT,Student_35,30,0.83,Female,Data Science and Artificial Intelligence,4,Chess
+36,Business,Student_36,28,1.07,Male,project Management,4,Football
+37,Business,Student_37,19,2.78,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+38,Geology,Student_38,25,3.68,Female,Crystals,4,Art
+39,IT,Student_39,23,2.42,Female,Information Technology,2,Football
+40,Engineering,Student_40,22,0.84,Female,Public works department,1,Youga
+41,IT,Student_41,21,2.61,Female,Software Development,2,Youga
+42,Geology,Student_42,16,1.17,Female,Crystals,4,Chess
+43,IT,Student_43,16,2.07,Male,Information Technology,4,Art
+44,Engineering,Student_44,29,3.83,Male,Mechanical design and production department,4,Football
+45,Science,Student_45,25,3.42,Male,Physics,4,Art
+46,Geology,Student_46,20,0.11,Female,Earth Geology,4,Chess
+47,Geology,Student_47,25,0.68,Female,Crystals,4,Youga
+48,Engineering,Student_48,30,1.13,Male, works department,4,Art
+49,Geology,Student_49,19,1.27,Female,Crystals,1,Football
+50,Business,Student_50,28,2.24,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+51,Geology,Student_51,30,3.73,Female,Minerals,4,Chess
+52,Geology,Student_52,27,1.85,Male,Crystals,4,Football
+53,Engineering,Student_53,25,3.39,Male,Mechanical design and production department,4,Football
+54,Engineering,Student_54,16,0.98,Male,Power Engineering,1,Chess
+55,Science,Student_55,24,2.81,Male,Geology,3,Football
+56,Geology,Student_56,26,2.5,Male,Minerals,4,Youga
+57,Geology,Student_57,30,0.46,Female,Earth Geology,4,Chess
+58,IT,Student_58,20,1.67,Male,Data Science and Artificial Intelligence,5,Youga
+59,Business,Student_59,18,1.81,Male,Actuarial Analysis and Risk Management,4,Football
+60,Business,Student_60,23,3.72,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+61,Science,Student_61,24,2.33,Male,Geology,3,Chess
+62,Engineering,Student_62,27,3.74,Male,Power Engineering,4,Football
+63,Business,Student_63,28,3.58,Female,Actuarial Analysis and Risk Management,4,Art
+64,Business,Student_64,18,1.17,Female,project Management,4,Art
+65,IT,Student_65,17,2.62,Female,Data Science and Artificial Intelligence,2,Art
+66,Geology,Student_66,28,3.59,Male,Earth Geology,4,Art
+67,Engineering,Student_67,27,2.62,Female,Public works department,4,Art
+68,IT,Student_68,26,1.45,Male,Information Technology,4,Youga
+69,Geology,Student_69,29,0.5,Male,Earth Geology,4,Football
+70,Geology,Student_70,18,3.12,Male,Crystals,1,Youga
+71,Science,Student_71,27,1.46,Female,Biochemistry,4,Chess
+72,Geology,Student_72,24,3.71,Female,Earth Geology,3,Chess
+73,Science,Student_73,20,0.35,Male,Geology,4,Chess
+74,IT,Student_74,28,0.59,Female,Data Science and Artificial Intelligence,4,Youga
+75,Geology,Student_75,20,1.12,Female,Crystals,5,Chess
+76,Engineering,Student_76,18,1.9,Female,Nanotechnology,1,Football
+77,Engineering,Student_77,18,2.73,Male,Power Engineering,1,Art
+78,Science,Student_78,26,3.43,Male,Physics,4,Art
+79,Business,Student_79,26,0.91,Female,project Management,4,Football
+80,Science,Student_80,30,3.99,Female,Mathematics,4,Youga
+81,Engineering,Student_81,19,3.46,Male,Public works department,1,Youga
+82,Science,Student_82,30,1.81,Female,Mathematics,4,Art
+83,Business,Student_83,17,0.39,Female,Actuarial Analysis and Risk Management,4,Football
+84,Geology,Student_84,30,1.43,Female,Crystals,4,Art
+85,Business,Student_85,25,2.7,Male,project Management,4,Chess
+86,IT,Student_86,18,2.75,Male,Data Science and Artificial Intelligence,1,Youga
+87,Science,Student_87,27,1.05,Male,Geology,4,Youga
+88,Engineering,Student_88,17,0.45,Male,Public works department,5,Chess
+89,IT,Student_89,29,0.2,Male,Data Science and Artificial Intelligence,4,Football
+90,Business,Student_90,19,1.88,Female,project Management,4,Chess
+91,Engineering,Student_91,17,0.25,Male,Public works department,2,Youga
+92,Science,Student_92,27,2.23,Male,Mathematics,4,Art
+93,Engineering,Student_93,30,2.37,Male,Power Engineering,4,Youga
+94,Science,Student_94,30,1.19,Female,Biochemistry,4,Art
+95,IT,Student_95,19,1.56,Male,Information Technology,5,Art
+96,Business,Student_96,21,3.2,Female,Actuarial Analysis and Risk Management,4,Chess
+97,Engineering,Student_97,23,2.67,Male,Renewable Energy Engineering,2,Chess
+98,Geology,Student_98,30,3.04,Female,Minerals,4,Chess
+99,Engineering,Student_99,23,2.3,Male,Renewable Energy Engineering,2,Chess
+100,Science,Student_100,26,2.2,Male,Mathematics,4,Football
+101,IT,Student_101,28,0.79,Female,Information Technology,4,Chess
+102,Science,Student_102,30,0.4,Female,Physics,4,Football
+103,Business,Student_103,29,3.66,Male,Actuarial Analysis and Risk Management,4,Art
+104,Business,Student_104,24,2.97,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+105,IT,Student_105,21,3.24,Male,Data Science and Artificial Intelligence,2,Youga
+106,IT,Student_106,29,2.12,Male,Software Development,4,Art
+107,Science,Student_107,28,0.31,Female,Geology,4,Football
+108,Science,Student_108,19,1.32,Female,Biochemistry,5,Football
+109,Business,Student_109,18,1.69,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+110,Geology,Student_110,30,0.06,Male,Minerals,4,Art
+111,Science,Student_111,16,0.82,Female,Biochemistry,4,Art
+112,Business,Student_112,22,2.52,Male,Finance and Investment Management,4,Art
+113,Business,Student_113,21,2.03,Female,Finance and Investment Management,4,Art
+114,IT,Student_114,25,1.56,Male,Software Development,4,Art
+115,Business,Student_115,18,1.9,Male,Actuarial Analysis and Risk Management,4,Art
+116,Geology,Student_116,16,3.44,Female,Earth Geology,4,Chess
+117,Business,Student_117,18,2.38,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+118,Business,Student_118,29,0.87,Female,Actuarial Analysis and Risk Management,4,Chess
+119,Business,Student_119,17,2.55,Female,Actuarial Analysis and Risk Management,4,Art
+120,Geology,Student_120,21,1.09,Female,Earth Geology,2,Youga
+121,Science,Student_121,26,1.54,Male,Geology,4,Art
+122,IT,Student_122,17,0.1,Female,Information Technology,4,Youga
+123,IT,Student_123,30,1.72,Female,Data Science and Artificial Intelligence,4,Art
+124,IT,Student_124,28,1.86,Male,Information Technology,4,Chess
+125,Science,Student_125,19,3.18,Female,Geology,1,Chess
+126,Engineering,Student_126,21,2.14,Female,Renewable Energy Engineering,2,Chess
+127,Engineering,Student_127,28,1.69,Female,Renewable Energy Engineering,4,Youga
+128,Business,Student_128,30,0.63,Male,Actuarial Analysis and Risk Management,4,Art
+129,Business,Student_129,23,0.89,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+130,Engineering,Student_130,22,0.41,Female,Public works department,1,Chess
+131,Business,Student_131,28,0.95,Female,project Management,4,Football
+132,Science,Student_132,27,0.73,Female,Mathematics,4,Art
+133,Engineering,Student_133,25,0.9,Female,Mechanical design and production department,4,Chess
+134,Science,Student_134,21,0.38,Female,Mathematics,4,Football
+135,Geology,Student_135,22,0.54,Female,Minerals,1,Chess
+136,IT,Student_136,16,3.83,Female,Software Development,2,Football
+137,Engineering,Student_137,20,0.63,Male,Power Engineering,4,Art
+138,IT,Student_138,17,2.22,Male,Information Technology,4,Chess
+139,Geology,Student_139,19,2.8,Female,Minerals,3,Youga
+140,Engineering,Student_140,16,0.36,Female,Power Engineering,4,Art
+141,Science,Student_141,23,2.84,Female,Physics,2,Football
+142,Engineering,Student_142,29,0.21,Female,Nanotechnology,4,Art
+143,IT,Student_143,24,1.21,Male,Software Development,3,Youga
+144,Business,Student_144,29,3.19,Female,Actuarial Analysis and Risk Management,4,Football
+145,Geology,Student_145,16,1.02,Male,Earth Geology,5,Football
+146,Geology,Student_146,25,0.64,Male,Earth Geology,4,Football
+147,Engineering,Student_147,21,2.26,Male,Renewable Energy Engineering,2,Youga
+148,IT,Student_148,16,2.17,Female,Information Technology,3,Art
+149,Science,Student_149,24,1.39,Female,Geology,3,Chess
+150,Geology,Student_150,19,1.65,Male,Earth Geology,5,Youga
+151,Business,Student_151,23,1.97,Female,Actuarial Analysis and Risk Management,4,Art
+152,Science,Student_152,19,3.88,Male,Mathematics,5,Art
+153,Business,Student_153,17,3.77,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+154,Engineering,Student_154,19,3.83,Male,Public works department,1,Football
+155,IT,Student_155,28,2.2,Female,Data Science and Artificial Intelligence,4,Football
+156,Business,Student_156,25,2.5,Female,project Management,4,Art
+157,Science,Student_157,24,1.42,Female,Mathematics,3,Football
+158,Geology,Student_158,30,2.17,Male,Earth Geology,4,Football
+159,Engineering,Student_159,29,3.52,Male,Renewable Energy Engineering,4,Youga
+160,Engineering,Student_160,30,3.8,Male,Power Engineering,4,Chess
+161,Science,Student_161,29,2.16,Female,Biochemistry,4,Football
+162,Science,Student_162,22,3.66,Female,Physics,1,Football
+163,IT,Student_163,26,1.98,Female,Data Science and Artificial Intelligence,4,Chess
+164,Business,Student_164,18,0.45,Female,Finance and Investment Management,4,Football
+165,Business,Student_165,16,1.51,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+166,Engineering,Student_166,25,1.76,Male,Nanotechnology,4,Art
+167,Science,Student_167,18,1.46,Male,Physics,1,Chess
+168,IT,Student_168,20,3.78,Female,Data Science and Artificial Intelligence,3,Art
+169,IT,Student_169,22,2.74,Female,Information Technology,1,Youga
+170,Engineering,Student_170,21,1.19,Male,Power Engineering,5,Art
+171,Science,Student_171,27,2.98,Female,Biochemistry,4,Art
+172,Geology,Student_172,17,1.26,Female,Minerals,2,Art
+173,Science,Student_173,19,1.89,Female,Physics,4,Art
+174,Science,Student_174,21,0.16,Male,Geology,4,Art
+175,IT,Student_175,25,0.27,Female,Information Technology,4,Youga
+176,Business,Student_176,17,1.11,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+177,IT,Student_177,16,1.24,Female,Software Development,3,Art
+178,Science,Student_178,16,1.64,Male,Mathematics,4,Football
+179,Business,Student_179,19,2.09,Male,project Management,4,Art
+180,Science,Student_180,22,0.16,Male,Biochemistry,1,Chess
+181,Engineering,Student_181,20,0.45,Female,Renewable Energy Engineering,5,Football
+182,Geology,Student_182,20,3.22,Male,Minerals,2,Football
+183,IT,Student_183,30,2.2,Male,Software Development,4,Youga
+184,IT,Student_184,17,3.03,Female,Data Science and Artificial Intelligence,4,Chess
+185,Science,Student_185,22,1.66,Male,Biochemistry,1,Art
+186,Geology,Student_186,21,0.11,Female,Crystals,1,Art
+187,Geology,Student_187,21,0.22,Male,Minerals,3,Youga
+188,Engineering,Student_188,17,0.82,Female,Power Engineering,2,Art
+189,IT,Student_189,16,2.22,Female,Information Technology,4,Art
+190,Business,Student_190,17,3.66,Female,Finance and Investment Management,4,Art
+191,Business,Student_191,24,2.24,Male,Finance and Investment Management,4,Art
+192,Science,Student_192,23,3.86,Female,Physics,2,Art
+193,Business,Student_193,21,2.52,Male,Finance and Investment Management,4,Art
+194,IT,Student_194,23,1.93,Male,Data Science and Artificial Intelligence,2,Youga
+195,Geology,Student_195,23,3.5,Female,Crystals,2,Youga
+196,Engineering,Student_196,22,0.87,Male,Renewable Energy Engineering,1,Chess
+197,Science,Student_197,27,0.85,Female,Biochemistry,4,Football
+198,Science,Student_198,22,3.47,Male,Physics,1,Football
+199,Engineering,Student_199,27,1.25,Female,Renewable Energy Engineering,4,Youga
+200,IT,Student_200,26,2.53,Female,Software Development,4,Youga
+201,IT,Student_201,25,3.3,Male,Software Development,4,Football
+202,Geology,Student_202,22,3.36,Male,Minerals,1,Youga
+203,IT,Student_203,20,0.49,Male,Information Technology,1,Youga
+204,Science,Student_204,18,2.0,Female,Physics,1,Football
+205,Science,Student_205,26,3.56,Male,Physics,4,Chess
+206,Business,Student_206,23,1.98,Female,Actuarial Analysis and Risk Management,4,Football
+207,Science,Student_207,23,2.75,Female,Geology,2,Youga
+208,IT,Student_208,20,2.56,Female,Information Technology,3,Football
+209,Science,Student_209,23,0.99,Male,Mathematics,2,Chess
+210,Geology,Student_210,29,0.56,Male,Minerals,4,Youga
+211,IT,Student_211,21,0.36,Male,Software Development,1,Football
+212,IT,Student_212,30,3.34,Male,Software Development,4,Youga
+213,IT,Student_213,28,0.65,Female,Data Science and Artificial Intelligence,4,Youga
+214,Engineering,Student_214,25,3.01,Male,Power Engineering,4,Youga
+215,IT,Student_215,22,2.83,Female,Software Development,1,Football
+216,Geology,Student_216,23,1.02,Female,Crystals,2,Youga
+217,IT,Student_217,17,0.34,Female,Data Science and Artificial Intelligence,3,Youga
+218,Engineering,Student_218,20,1.06,Male,Mechanical design and production department,3,Football
+219,Science,Student_219,25,3.1,Female,Physics,4,Art
+220,IT,Student_220,26,3.16,Male,Software Development,4,Football
+221,Geology,Student_221,23,0.89,Male,Minerals,2,Football
+222,IT,Student_222,26,3.82,Male,Data Science and Artificial Intelligence,4,Youga
+223,Geology,Student_223,16,3.14,Male,Crystals,4,Chess
+224,Science,Student_224,26,2.6,Female,Physics,4,Football
+225,Engineering,Student_225,18,2.43,Male,Renewable Energy Engineering,1,Chess
+226,IT,Student_226,21,2.5,Female,Data Science and Artificial Intelligence,2,Chess
+227,Science,Student_227,18,2.16,Female,Geology,1,Football
+228,Science,Student_228,20,1.68,Female,Physics,1,Art
+229,Business,Student_229,19,1.22,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+230,Science,Student_230,30,1.38,Female,Geology,4,Youga
+231,Science,Student_231,25,0.17,Male,Physics,4,Youga
+232,Geology,Student_232,25,2.9,Male,Earth Geology,4,Youga
+233,Science,Student_233,22,2.49,Male,Mathematics,1,Chess
+234,Engineering,Student_234,19,2.09,Male,Public works department,3,Art
+235,IT,Student_235,18,2.31,Male,Software Development,1,Youga
+236,Engineering,Student_236,24,3.53,Male,Nanotechnology,3,Art
+237,Geology,Student_237,21,3.43,Male,Earth Geology,5,Football
+238,Science,Student_238,26,1.36,Male,Biochemistry,4,Youga
+239,Science,Student_239,16,1.23,Male,Biochemistry,3,Art
+240,Science,Student_240,17,0.98,Male,Geology,4,Art
+241,Business,Student_241,28,3.98,Female,Actuarial Analysis and Risk Management,4,Art
+242,Geology,Student_242,24,0.46,Male,Minerals,3,Chess
+243,Engineering,Student_243,26,1.52,Male,Mechanical design and production department,4,Chess
+244,Science,Student_244,21,0.98,Female,Physics,1,Chess
+245,Geology,Student_245,22,2.95,Male,Earth Geology,1,Art
+246,Science,Student_246,18,1.08,Male,Mathematics,1,Art
+247,Science,Student_247,23,3.77,Male,Biochemistry,2,Art
+248,IT,Student_248,20,2.77,Male,Information Technology,3,Youga
+249,Science,Student_249,17,2.76,Male,Biochemistry,1,Chess
+250,Geology,Student_250,30,0.34,Female,Crystals,4,Football
+251,Engineering,Student_251,18,1.91,Female,Public works department,1,Chess
+252,IT,Student_252,17,3.03,Male,Software Development,4,Art
+253,Science,Student_253,26,2.28,Female,Physics,4,Art
+254,IT,Student_254,22,2.5,Male,Information Technology,1,Football
+255,Geology,Student_255,17,2.59,Female,Minerals,5,Youga
+256,Business,Student_256,29,0.52,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+257,Science,Student_257,28,1.33,Male,Biochemistry,4,Youga
+258,Science,Student_258,26,0.13,Female,Physics,4,Football
+259,Geology,Student_259,24,0.66,Male,Earth Geology,3,Art
+260,Business,Student_260,21,1.95,Female,Actuarial Analysis and Risk Management,4,Chess
+261,Business,Student_261,21,1.19,Female,Finance and Investment Management,4,Chess
+262,Science,Student_262,20,1.38,Female,Physics,3,Football
+263,Business,Student_263,30,2.54,Male,Finance and Investment Management,4,Football
+264,IT,Student_264,25,0.1,Male,Software Development,4,Chess
+265,IT,Student_265,21,0.65,Male,Information Technology,4,Football
+266,Science,Student_266,23,2.5,Female,Mathematics,2,Art
+267,IT,Student_267,18,3.66,Male,Data Science and Artificial Intelligence,1,Art
+268,Business,Student_268,29,1.44,Female,Actuarial Analysis and Risk Management,4,Football
+269,Geology,Student_269,22,3.17,Female,Minerals,1,Football
+270,Business,Student_270,20,0.03,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+271,IT,Student_271,20,0.56,Male,Information Technology,2,Football
+272,Geology,Student_272,26,0.06,Male,Minerals,4,Art
+273,IT,Student_273,24,3.6,Female,Data Science and Artificial Intelligence,3,Art
+274,Engineering,Student_274,20,3.02,Female,Power Engineering,5,Art
+275,IT,Student_275,25,0.74,Female,Data Science and Artificial Intelligence,4,Football
+276,IT,Student_276,29,0.42,Male,Data Science and Artificial Intelligence,4,Art
+277,Geology,Student_277,27,1.45,Male,Crystals,4,Youga
+278,IT,Student_278,22,0.52,Female,Data Science and Artificial Intelligence,1,Football
+279,Engineering,Student_279,30,3.12,Female,Nanotechnology,4,Art
+280,IT,Student_280,22,0.22,Female,Software Development,1,Youga
+281,Science,Student_281,27,2.6,Female,Biochemistry,4,Football
+282,IT,Student_282,19,0.17,Female,Software Development,1,Youga
+283,Business,Student_283,18,0.51,Male,project Management,4,Youga
+284,Science,Student_284,20,2.74,Male,Biochemistry,5,Art
+285,Geology,Student_285,22,0.66,Female,Earth Geology,1,Football
+286,Engineering,Student_286,20,1.81,Male,Renewable Energy Engineering,5,Chess
+287,Engineering,Student_287,30,1.62,Male,Public works department,4,Art
+288,IT,Student_288,28,2.44,Male,Data Science and Artificial Intelligence,4,Art
+289,Business,Student_289,26,1.93,Male,project Management,4,Art
+290,Engineering,Student_290,23,2.01,Male,Public works department,2,Football
+291,Science,Student_291,18,2.68,Female,Geology,1,Youga
+292,Geology,Student_292,29,0.55,Male,Minerals,4,Football
+293,Science,Student_293,23,3.62,Male,Physics,2,Youga
+294,Science,Student_294,21,1.9,Female,Physics,4,Art
+295,Science,Student_295,28,1.8,Female,Mathematics,4,Art
+296,Engineering,Student_296,21,3.63,Female,Mechanical design and production department,5,Chess
+297,Engineering,Student_297,22,2.53,Male,Power Engineering,1,Chess
+298,Geology,Student_298,18,1.15,Female,Earth Geology,1,Football
+299,IT,Student_299,23,2.28,Female,Software Development,2,Youga
+300,IT,Student_300,18,3.77,Female,Information Technology,1,Chess
+301,Business,Student_301,16,0.33,Female,project Management,4,Youga
+302,Science,Student_302,28,1.07,Male,Biochemistry,4,Youga
+303,Business,Student_303,20,0.59,Male,project Management,4,Football
+304,Science,Student_304,20,0.46,Male,Geology,5,Youga
+305,Geology,Student_305,26,3.98,Male,Crystals,4,Art
+306,Engineering,Student_306,20,3.87,Male,Public works department,4,Art
+307,Geology,Student_307,24,0.46,Male,Earth Geology,3,Football
+308,Science,Student_308,20,2.3,Male,Geology,4,Art
+309,IT,Student_309,30,1.61,Male,Software Development,4,Football
+310,Geology,Student_310,18,2.19,Male,Earth Geology,1,Youga
+311,Engineering,Student_311,30,0.8,Female,Power Engineering,4,Football
+312,Business,Student_312,19,2.04,Female,project Management,4,Football
+313,Geology,Student_313,17,1.08,Male,Earth Geology,3,Art
+314,IT,Student_314,16,3.76,Female,Software Development,3,Chess
+315,IT,Student_315,30,2.7,Female,Information Technology,4,Youga
+316,IT,Student_316,23,2.15,Female,Information Technology,2,Chess
+317,Engineering,Student_317,30,0.76,Male,Renewable Energy Engineering,4,Chess
+318,Science,Student_318,26,3.04,Male,Geology,4,Youga
+319,Engineering,Student_319,26,0.64,Female,Renewable Energy Engineering,4,Art
+320,Science,Student_320,27,1.1,Female,Geology,4,Youga
+321,Science,Student_321,22,3.62,Male,Physics,1,Chess
+322,Science,Student_322,24,2.78,Female,Geology,3,Youga
+323,Science,Student_323,25,2.97,Male,Geology,4,Art
+324,Business,Student_324,23,1.11,Male,project Management,4,Art
+325,Science,Student_325,22,3.79,Male,Geology,1,Football
+326,IT,Student_326,24,0.98,Male,Data Science and Artificial Intelligence,3,Football
+327,Science,Student_327,17,0.15,Male,Physics,2,Youga
+328,IT,Student_328,20,1.66,Male,Data Science and Artificial Intelligence,1,Football
+329,Business,Student_329,20,2.09,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+330,IT,Student_330,26,0.76,Female,Data Science and Artificial Intelligence,4,Youga
+331,IT,Student_331,22,0.31,Male,Information Technology,1,Chess
+332,IT,Student_332,23,2.69,Male,Software Development,2,Art
+333,Engineering,Student_333,24,3.26,Male,Power Engineering,3,Youga
+334,Engineering,Student_334,29,2.14,Female,Power Engineering,4,Art
+335,Business,Student_335,19,2.49,Female,Finance and Investment Management,4,Art
+336,Geology,Student_336,24,1.44,Male,Crystals,3,Youga
+337,Geology,Student_337,19,0.24,Female,Earth Geology,1,Chess
+338,Science,Student_338,16,0.67,Female,Biochemistry,4,Chess
+339,Engineering,Student_339,24,0.01,Female,Mechanical design and production department,3,Chess
+340,Science,Student_340,20,3.25,Male,Physics,5,Football
+341,Business,Student_341,17,0.08,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+342,Business,Student_342,19,2.56,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+343,IT,Student_343,23,2.85,Female,Information Technology,2,Art
+344,Business,Student_344,26,3.02,Female,project Management,4,Football
+345,Engineering,Student_345,22,0.31,Female,Power Engineering,1,Youga
+346,IT,Student_346,22,1.79,Female,Information Technology,1,Art
+347,Science,Student_347,19,0.27,Female,Biochemistry,1,Chess
+348,IT,Student_348,19,2.03,Female,Information Technology,1,Youga
+349,IT,Student_349,26,1.96,Male,Data Science and Artificial Intelligence,4,Youga
+350,Engineering,Student_350,24,2.97,Male,Renewable Energy Engineering,3,Youga
+351,IT,Student_351,22,0.69,Male,Data Science and Artificial Intelligence,1,Youga
+352,Engineering,Student_352,28,2.04,Male,Mechanical design and production department,4,Football
+353,Engineering,Student_353,24,1.99,Male,Renewable Energy Engineering,3,Youga
+354,Geology,Student_354,30,3.14,Female,Minerals,4,Youga
+355,Engineering,Student_355,30,3.79,Female,Mechanical design and production department,4,Youga
+356,Engineering,Student_356,29,3.33,Female,Power Engineering,4,Youga
+357,Geology,Student_357,22,0.44,Female,Earth Geology,1,Chess
+358,Engineering,Student_358,26,0.6,Female,Public works department,4,Art
+359,Engineering,Student_359,28,0.22,Male,Mechanical design and production department,4,Football
+360,Geology,Student_360,28,2.92,Male,Minerals,4,Art
+361,Engineering,Student_361,20,3.62,Male,Renewable Energy Engineering,5,Art
+362,IT,Student_362,28,1.43,Female,Information Technology,4,Youga
+363,Geology,Student_363,19,3.19,Female,Minerals,2,Chess
+364,Engineering,Student_364,26,2.15,Female,Public works department,4,Art
+365,Geology,Student_365,22,3.26,Female,Crystals,1,Football
+366,Business,Student_366,22,3.28,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+367,Science,Student_367,27,0.99,Female,Geology,4,Chess
+368,Geology,Student_368,24,3.55,Male,Earth Geology,3,Chess
+369,Science,Student_369,18,3.13,Female,Geology,1,Youga
+370,Science,Student_370,25,0.91,Female,Biochemistry,4,Football
+371,Science,Student_371,20,2.04,Female,Geology,5,Football
+372,IT,Student_372,22,3.65,Female,Data Science and Artificial Intelligence,1,Chess
+373,Business,Student_373,25,1.88,Female,Actuarial Analysis and Risk Management,4,Chess
+374,Science,Student_374,19,1.45,Female,Physics,3,Chess
+375,Geology,Student_375,20,2.72,Male,Crystals,3,Art
+376,Science,Student_376,21,0.56,Male,Geology,3,Youga
+377,IT,Student_377,23,1.42,Male,Software Development,2,Chess
+378,Science,Student_378,24,3.73,Female,Geology,3,Football
+379,Science,Student_379,19,2.46,Female,Mathematics,5,Youga
+380,IT,Student_380,22,3.37,Male,Software Development,1,Art
+381,Geology,Student_381,28,1.45,Female,Minerals,4,Youga
+382,Engineering,Student_382,19,2.95,Male,Renewable Energy Engineering,5,Youga
+383,Geology,Student_383,18,0.7,Male,Earth Geology,1,Youga
+384,Engineering,Student_384,24,0.05,Male,Public works department,3,Youga
+385,Engineering,Student_385,26,2.52,Female,Power Engineering,4,Youga
+386,IT,Student_386,20,2.83,Female,Data Science and Artificial Intelligence,4,Youga
+387,Business,Student_387,26,2.59,Male,Actuarial Analysis and Risk Management,4,Youga
+388,Science,Student_388,18,3.83,Male,Geology,1,Youga
+389,Science,Student_389,17,1.77,Female,Geology,4,Art
+390,Business,Student_390,16,0.38,Male,project Management,4,Chess
+391,Geology,Student_391,18,3.11,Female,Earth Geology,1,Youga
+392,Business,Student_392,25,1.69,Male,Actuarial Analysis and Risk Management,4,Youga
+393,Engineering,Student_393,28,1.33,Female,Public works department,4,Art
+394,Science,Student_394,25,1.2,Female,Mathematics,4,Youga
+395,Engineering,Student_395,28,0.52,Male,Renewable Energy Engineering,4,Football
+396,Geology,Student_396,17,3.55,Female,Crystals,5,Chess
+397,Geology,Student_397,22,1.2,Female,Earth Geology,1,Chess
+398,Business,Student_398,16,2.82,Female,project Management,4,Youga
+399,Science,Student_399,28,2.85,Male,Biochemistry,4,Youga
+400,IT,Student_400,30,1.06,Female,Software Development,4,Chess
+401,Engineering,Student_401,17,1.12,Male,Mechanical design and production department,2,Art
+402,Engineering,Student_402,20,0.63,Male,Power Engineering,1,Youga
+403,Business,Student_403,18,0.37,Female,Finance and Investment Management,4,Youga
+404,Geology,Student_404,25,2.78,Female,Crystals,4,Art
+405,Science,Student_405,19,3.84,Male,Mathematics,3,Chess
+406,Business,Student_406,28,3.54,Female,Finance and Investment Management,4,Art
+407,Business,Student_407,26,3.18,Male,Actuarial Analysis and Risk Management,4,Art
+408,Business,Student_408,19,3.88,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+409,Business,Student_409,16,3.24,Female,Actuarial Analysis and Risk Management,4,Youga
+410,IT,Student_410,16,2.88,Female,Software Development,5,Chess
+411,Engineering,Student_411,18,0.63,Female,Nanotechnology,1,Youga
+412,Science,Student_412,27,0.63,Male,Mathematics,4,Art
+413,IT,Student_413,23,2.9,Male,Data Science and Artificial Intelligence,2,Chess
+414,IT,Student_414,30,0.17,Female,Data Science and Artificial Intelligence,4,Art
+415,Engineering,Student_415,18,1.26,Female,Public works department,1,Football
+416,IT,Student_416,23,1.71,Female,Information Technology,2,Art
+417,IT,Student_417,16,3.89,Female,Software Development,2,Chess
+418,Engineering,Student_418,21,0.41,Female,Power Engineering,2,Youga
+419,Geology,Student_419,30,1.68,Male,Earth Geology,4,Youga
+420,IT,Student_420,30,2.13,Female,Information Technology,4,Youga
+421,Geology,Student_421,26,2.53,Female,Crystals,4,Chess
+422,Science,Student_422,26,1.13,Male,Geology,4,Art
+423,Geology,Student_423,21,0.19,Male,Earth Geology,4,Youga
+424,Science,Student_424,29,0.28,Female,Physics,4,Football
+425,Geology,Student_425,25,0.93,Female,Crystals,4,Football
+426,Geology,Student_426,20,3.24,Male,Earth Geology,2,Art
+427,Science,Student_427,19,1.12,Male,Biochemistry,5,Youga
+428,IT,Student_428,24,1.13,Female,Information Technology,3,Art
+429,IT,Student_429,20,2.63,Male,Data Science and Artificial Intelligence,3,Football
+430,IT,Student_430,20,2.23,Female,Information Technology,1,Youga
+431,Science,Student_431,29,3.24,Male,Biochemistry,4,Youga
+432,Engineering,Student_432,17,0.59,Female,Power Engineering,3,Football
+433,Business,Student_433,16,3.67,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+434,Science,Student_434,26,1.44,Male,Biochemistry,4,Youga
+435,Science,Student_435,18,2.96,Female,Mathematics,1,Football
+436,Business,Student_436,29,0.23,Male,Actuarial Analysis and Risk Management,4,Art
+437,Geology,Student_437,24,1.84,Female,Crystals,3,Football
+438,Business,Student_438,30,2.25,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+439,Engineering,Student_439,27,1.81,Female,Public works department,4,Chess
+440,Engineering,Student_440,27,1.88,Female,Renewable Energy Engineering,4,Art
+441,Geology,Student_441,19,0.46,Male,Crystals,2,Art
+442,Engineering,Student_442,28,1.26,Male,Public works department,4,Art
+443,IT,Student_443,21,0.5,Male,Information Technology,4,Football
+444,Business,Student_444,18,3.63,Female,project Management,4,Football
+445,Geology,Student_445,30,3.05,Female,Crystals,4,Football
+446,Engineering,Student_446,17,0.2,Female,Renewable Energy Engineering,5,Youga
+447,Science,Student_447,29,1.35,Male,Mathematics,4,Youga
+448,Engineering,Student_448,21,1.36,Female,Renewable Energy Engineering,5,Chess
+449,Science,Student_449,21,3.84,Male,Geology,5,Football
+450,Geology,Student_450,16,3.05,Female,Minerals,4,Chess
+451,IT,Student_451,26,0.58,Male,Software Development,4,Football
+452,Geology,Student_452,26,1.79,Female,Minerals,4,Youga
+453,IT,Student_453,25,0.38,Male,Software Development,4,Youga
+454,Science,Student_454,19,1.53,Male,Geology,1,Football
+455,Business,Student_455,27,1.49,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+456,Geology,Student_456,23,1.45,Male,Earth Geology,2,Football
+457,IT,Student_457,16,0.84,Male,Information Technology,1,Youga
+458,Geology,Student_458,30,3.62,Female,Minerals,4,Art
+459,Engineering,Student_459,22,2.62,Female,Public works department,1,Youga
+460,Geology,Student_460,29,0.01,Female,Crystals,4,Football
+461,Geology,Student_461,23,3.44,Female,Earth Geology,2,Youga
+462,Geology,Student_462,19,3.56,Female,Earth Geology,3,Art
+463,IT,Student_463,19,2.04,Male,Information Technology,3,Football
+464,Business,Student_464,23,0.53,Female,Actuarial Analysis and Risk Management,4,Youga
+465,Geology,Student_465,20,0.62,Male,Minerals,4,Chess
+466,Geology,Student_466,29,2.61,Male,Minerals,4,Youga
+467,Geology,Student_467,22,0.25,Male,Crystals,1,Football
+468,Business,Student_468,27,0.03,Female,Finance and Investment Management,4,Chess
+469,Geology,Student_469,20,1.68,Female,Minerals,5,Art
+470,Engineering,Student_470,19,0.14,Male,Nanotechnology,4,Youga
+471,IT,Student_471,16,3.48,Male,Data Science and Artificial Intelligence,4,Youga
+472,Geology,Student_472,27,0.59,Male,Minerals,4,Art
+473,Geology,Student_473,17,0.18,Male,Earth Geology,1,Youga
+474,Engineering,Student_474,19,0.6,Female,Power Engineering,1,Chess
+475,Science,Student_475,28,3.42,Female,Biochemistry,4,Art
+476,Geology,Student_476,23,2.89,Male,Minerals,2,Youga
+477,Engineering,Student_477,27,3.58,Female,Nanotechnology,4,Chess
+478,Business,Student_478,25,1.74,Male,project Management,4,Art
+479,Business,Student_479,24,2.5,Male,Actuarial Analysis and Risk Management,4,Art
+480,Engineering,Student_480,26,2.43,Female,Nanotechnology,4,Football
+481,Engineering,Student_481,23,3.04,Male,Mechanical design and production department,2,Chess
+482,Science,Student_482,28,0.24,Female,Mathematics,4,Art
+483,Geology,Student_483,30,3.67,Male,Crystals,4,Football
+484,Engineering,Student_484,22,1.59,Male,Public works department,1,Art
+485,Geology,Student_485,28,0.01,Female,Crystals,4,Chess
+486,Business,Student_486,27,1.52,Male,Marketing Entrepreneurship and Innovation Management,4,Football
+487,IT,Student_487,22,2.22,Male,Software Development,1,Youga
+488,Business,Student_488,29,2.73,Female,Finance and Investment Management,4,Chess
+489,Engineering,Student_489,18,0.05,Male,Renewable Energy Engineering,1,Chess
+490,Geology,Student_490,17,0.93,Male,Minerals,2,Football
+491,Science,Student_491,20,0.05,Female,Geology,2,Football
+492,Engineering,Student_492,24,1.15,Male,Public works department,3,Art
+493,Geology,Student_493,27,1.71,Male,Minerals,4,Art
+494,Geology,Student_494,26,0.35,Male,Minerals,4,Football
+495,Science,Student_495,20,0.02,Female,Biochemistry,5,Football
+496,IT,Student_496,19,1.38,Female,Data Science and Artificial Intelligence,5,Chess
+497,Engineering,Student_497,17,0.54,Male,Renewable Energy Engineering,5,Youga
+498,Science,Student_498,23,0.95,Female,Mathematics,2,Art
+499,Geology,Student_499,21,1.7,Male,Crystals,2,Chess
+500,Science,Student_500,20,0.59,Female,Biochemistry,1,Chess
+501,Business,Student_501,18,2.63,Female,Finance and Investment Management,4,Youga
+502,IT,Student_502,24,2.67,Female,Software Development,3,Chess
+503,Engineering,Student_503,27,1.44,Female,Renewable Energy Engineering,4,Chess
+504,IT,Student_504,17,3.04,Female,Information Technology,3,Chess
+505,Business,Student_505,29,3.76,Male,project Management,4,Chess
+506,IT,Student_506,23,0.79,Female,Information Technology,2,Art
+507,Science,Student_507,17,0.42,Female,Mathematics,4,Chess
+508,Geology,Student_508,26,2.77,Female,Earth Geology,4,Art
+509,IT,Student_509,24,1.24,Male,Data Science and Artificial Intelligence,3,Chess
+510,IT,Student_510,25,3.82,Male,Data Science and Artificial Intelligence,4,Youga
+511,Business,Student_511,20,1.32,Female,Actuarial Analysis and Risk Management,4,Football
+512,IT,Student_512,21,0.37,Male,Information Technology,2,Art
+513,IT,Student_513,20,3.35,Male,Information Technology,3,Youga
+514,Geology,Student_514,20,3.12,Female,Earth Geology,2,Football
+515,IT,Student_515,30,2.44,Male,Information Technology,4,Football
+516,Geology,Student_516,20,0.9,Male,Earth Geology,5,Football
+517,IT,Student_517,23,0.5,Male,Information Technology,2,Football
+518,Geology,Student_518,21,3.75,Female,Earth Geology,2,Football
+519,Engineering,Student_519,30,0.44,Female,Renewable Energy Engineering,4,Chess
+520,Science,Student_520,23,0.88,Female,Biochemistry,2,Football
+521,Engineering,Student_521,24,0.52,Male,Public works department,3,Art
+522,Geology,Student_522,18,2.09,Female,Minerals,1,Chess
+523,IT,Student_523,17,3.41,Male,Software Development,1,Chess
+524,Geology,Student_524,25,3.03,Female,Earth Geology,4,Football
+525,Geology,Student_525,28,0.57,Male,Crystals,4,Football
+526,Business,Student_526,28,1.64,Female,Actuarial Analysis and Risk Management,4,Football
+527,Business,Student_527,22,0.38,Male,project Management,4,Art
+528,Business,Student_528,16,0.53,Male,project Management,4,Youga
+529,IT,Student_529,28,1.77,Female,Information Technology,4,Youga
+530,Business,Student_530,17,0.66,Female,project Management,4,Art
+531,Geology,Student_531,23,3.63,Male,Crystals,2,Art
+532,IT,Student_532,29,0.49,Female,Information Technology,4,Chess
+533,Engineering,Student_533,19,3.73,Male,Nanotechnology,3,Football
+534,Science,Student_534,23,3.99,Female,Physics,2,Art
+535,Engineering,Student_535,30,3.05,Male,Mechanical design and production department,4,Chess
+536,Engineering,Student_536,27,0.69,Male,Mechanical design and production department,4,Art
+537,Geology,Student_537,21,0.28,Female,Crystals,5,Art
+538,Science,Student_538,22,1.13,Male,Mathematics,1,Football
+539,IT,Student_539,20,3.19,Female,Data Science and Artificial Intelligence,1,Football
+540,Business,Student_540,27,2.89,Female,Finance and Investment Management,4,Chess
+541,Engineering,Student_541,28,0.17,Male,Mechanical design and production department,4,Chess
+542,Science,Student_542,18,0.05,Male,Physics,1,Youga
+543,Engineering,Student_543,18,2.37,Female,Mechanical design and production department,1,Art
+544,Business,Student_544,27,1.87,Female,Actuarial Analysis and Risk Management,4,Football
+545,Geology,Student_545,28,0.35,Female,Crystals,4,Football
+546,Engineering,Student_546,24,3.11,Female,Mechanical design and production department,3,Art
+547,Geology,Student_547,30,3.56,Male,Crystals,4,Art
+548,Engineering,Student_548,25,3.49,Female,Public works department,4,Football
+549,Geology,Student_549,28,3.67,Male,Minerals,4,Art
+550,Geology,Student_550,16,1.95,Male,Crystals,5,Youga
+551,Geology,Student_551,22,1.43,Male,Minerals,1,Chess
+552,Engineering,Student_552,19,0.82,Female,Public works department,4,Art
+553,IT,Student_553,22,0.96,Male,Software Development,1,Youga
+554,IT,Student_554,27,1.9,Female,Information Technology,4,Youga
+555,Science,Student_555,18,1.01,Male,Geology,1,Football
+556,Geology,Student_556,16,3.04,Male,Crystals,5,Art
+557,Science,Student_557,18,3.79,Female,Geology,1,Art
+558,IT,Student_558,25,1.19,Female,Data Science and Artificial Intelligence,4,Football
+559,Science,Student_559,20,0.43,Male,Mathematics,5,Art
+560,Science,Student_560,20,3.3,Female,Geology,2,Youga
+561,Business,Student_561,30,1.52,Male,Finance and Investment Management,4,Chess
+562,Geology,Student_562,20,0.92,Female,Minerals,2,Football
+563,IT,Student_563,18,1.26,Male,Software Development,1,Chess
+564,Geology,Student_564,30,1.72,Female,Minerals,4,Chess
+565,Science,Student_565,27,0.6,Male,Geology,4,Football
+566,Science,Student_566,19,1.44,Male,Physics,1,Football
+567,Geology,Student_567,21,3.83,Male,Earth Geology,1,Chess
+568,Science,Student_568,16,3.55,Female,Physics,5,Youga
+569,Business,Student_569,17,1.1,Male,Finance and Investment Management,4,Football
+570,Engineering,Student_570,23,2.62,Female,Power Engineering,2,Football
+571,Engineering,Student_571,21,3.55,Female,Power Engineering,3,Art
+572,IT,Student_572,26,2.96,Male,Data Science and Artificial Intelligence,4,Art
+573,Business,Student_573,20,1.63,Female,Actuarial Analysis and Risk Management,4,Chess
+574,Engineering,Student_574,28,1.61,Female,Public works department,4,Chess
+575,Engineering,Student_575,16,0.15,Female,Mechanical design and production department,5,Art
+576,Business,Student_576,29,1.92,Female,Actuarial Analysis and Risk Management,4,Football
+577,Geology,Student_577,23,2.36,Male,Crystals,2,Football
+578,Science,Student_578,27,1.42,Female,Physics,4,Youga
+579,Engineering,Student_579,24,0.3,Male,Public works department,3,Football
+580,IT,Student_580,26,2.43,Male,Data Science and Artificial Intelligence,4,Youga
+581,Engineering,Student_581,21,0.47,Female,Mechanical design and production department,4,Football
+582,Geology,Student_582,21,3.41,Female,Minerals,1,Art
+583,Business,Student_583,27,3.38,Male,Actuarial Analysis and Risk Management,4,Chess
+584,Engineering,Student_584,23,0.08,Female,Power Engineering,2,Art
+585,Science,Student_585,26,3.29,Male,Biochemistry,4,Football
+586,Engineering,Student_586,28,0.8,Male,Renewable Energy Engineering,4,Chess
+587,Geology,Student_587,24,1.97,Male,Crystals,3,Youga
+588,Business,Student_588,25,1.63,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+589,Geology,Student_589,25,2.59,Female,Crystals,4,Football
+590,Business,Student_590,18,3.31,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+591,Geology,Student_591,29,0.98,Male,Crystals,4,Football
+592,Engineering,Student_592,25,2.91,Male,Mechanical design and production department,4,Chess
+593,Science,Student_593,28,0.1,Male,Physics,4,Football
+594,Geology,Student_594,28,1.02,Male,Crystals,4,Chess
+595,Business,Student_595,26,0.1,Female,project Management,4,Youga
+596,Science,Student_596,21,2.78,Female,Physics,2,Youga
+597,IT,Student_597,30,0.89,Female,Information Technology,4,Youga
+598,Science,Student_598,28,0.12,Male,Geology,4,Youga
+599,Science,Student_599,19,2.29,Female,Geology,1,Art
+600,Geology,Student_600,30,1.56,Female,Minerals,4,Football
+601,Geology,Student_601,16,2.46,Male,Earth Geology,4,Youga
+602,Engineering,Student_602,16,2.9,Female,Renewable Energy Engineering,3,Youga
+603,Engineering,Student_603,27,3.47,Male,Renewable Energy Engineering,4,Chess
+604,Engineering,Student_604,20,0.65,Male,Nanotechnology,3,Youga
+605,Business,Student_605,16,3.11,Male,Actuarial Analysis and Risk Management,4,Art
+606,Geology,Student_606,17,0.23,Male,Minerals,3,Chess
+607,Geology,Student_607,18,2.16,Female,Crystals,1,Chess
+608,Business,Student_608,23,3.1,Male,Finance and Investment Management,4,Chess
+609,Science,Student_609,27,2.51,Male,Biochemistry,4,Chess
+610,Engineering,Student_610,18,1.82,Male,Power Engineering,1,Youga
+611,Engineering,Student_611,29,1.32,Female,Power Engineering,4,Chess
+612,IT,Student_612,23,2.97,Female,Software Development,2,Youga
+613,Business,Student_613,23,0.75,Female,Actuarial Analysis and Risk Management,4,Art
+614,Science,Student_614,19,1.86,Female,Biochemistry,3,Football
+615,Business,Student_615,25,1.3,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+616,Science,Student_616,25,3.08,Female,Mathematics,4,Chess
+617,Science,Student_617,16,3.36,Female,Physics,3,Chess
+618,Geology,Student_618,26,2.64,Female,Earth Geology,4,Chess
+619,Geology,Student_619,27,1.17,Female,Minerals,4,Youga
+620,IT,Student_620,19,3.16,Female,Information Technology,5,Art
+621,IT,Student_621,17,0.09,Male,Software Development,4,Art
+622,Engineering,Student_622,28,1.97,Female,Nanotechnology,4,Youga
+623,Geology,Student_623,16,2.83,Female,Earth Geology,4,Chess
+624,Geology,Student_624,22,2.44,Male,Earth Geology,1,Football
+625,IT,Student_625,20,1.1,Female,Data Science and Artificial Intelligence,1,Football
+626,IT,Student_626,27,3.64,Female,Software Development,4,Art
+627,Engineering,Student_627,27,0.02,Male,Mechanical design and production department,4,Chess
+628,IT,Student_628,16,0.81,Female,Information Technology,1,Chess
+629,IT,Student_629,19,2.71,Female,Data Science and Artificial Intelligence,3,Chess
+630,Business,Student_630,16,1.07,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+631,Geology,Student_631,26,3.84,Female,Crystals,4,Chess
+632,Business,Student_632,18,1.83,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+633,IT,Student_633,16,0.53,Female,Information Technology,2,Art
+634,Science,Student_634,19,2.78,Male,Biochemistry,4,Youga
+635,Geology,Student_635,26,1.51,Female,Earth Geology,4,Football
+636,Geology,Student_636,16,1.44,Female,Earth Geology,3,Football
+637,IT,Student_637,20,0.85,Male,Data Science and Artificial Intelligence,1,Football
+638,Science,Student_638,17,0.17,Male,Geology,5,Art
+639,Geology,Student_639,16,2.26,Female,Crystals,2,Chess
+640,IT,Student_640,27,2.59,Male,Information Technology,4,Youga
+641,Science,Student_641,29,0.13,Male,Biochemistry,4,Art
+642,Business,Student_642,28,3.15,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+643,Business,Student_643,24,3.5,Female,project Management,4,Football
+644,Science,Student_644,30,2.62,Male,Biochemistry,4,Chess
+645,Science,Student_645,18,3.15,Male,Biochemistry,1,Art
+646,Science,Student_646,29,0.8,Female,Mathematics,4,Football
+647,Engineering,Student_647,18,2.91,Female,Renewable Energy Engineering,1,Football
+648,Engineering,Student_648,18,2.37,Male,Mechanical design and production department,1,Youga
+649,Engineering,Student_649,17,2.08,Female,Public works department,4,Art
+650,Geology,Student_650,25,3.53,Female,Minerals,4,Chess
+651,Business,Student_651,25,0.77,Female,Finance and Investment Management,4,Chess
+652,Business,Student_652,18,3.82,Male,Actuarial Analysis and Risk Management,4,Art
+653,Geology,Student_653,23,1.55,Female,Crystals,2,Art
+654,Geology,Student_654,20,1.02,Female,Crystals,2,Art
+655,IT,Student_655,18,1.99,Male,Data Science and Artificial Intelligence,1,Youga
+656,IT,Student_656,19,2.53,Male,Software Development,1,Youga
+657,IT,Student_657,26,0.86,Male,Information Technology,4,Football
+658,Engineering,Student_658,25,3.95,Male,Public works department,4,Youga
+659,IT,Student_659,30,3.6,Female,Information Technology,4,Chess
+660,IT,Student_660,16,0.37,Female,Information Technology,3,Chess
+661,Geology,Student_661,22,0.41,Female,Crystals,1,Chess
+662,Geology,Student_662,17,3.72,Female,Earth Geology,3,Youga
+663,Business,Student_663,18,2.9,Female,project Management,4,Chess
+664,Science,Student_664,30,3.17,Male,Geology,4,Chess
+665,Business,Student_665,18,0.1,Male,project Management,4,Chess
+666,Science,Student_666,23,0.58,Male,Mathematics,2,Art
+667,Business,Student_667,27,1.34,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+668,Geology,Student_668,16,3.59,Female,Earth Geology,4,Art
+669,Business,Student_669,28,1.69,Male,Actuarial Analysis and Risk Management,4,Art
+670,Engineering,Student_670,27,3.1,Male,Public works department,4,Football
+671,Science,Student_671,20,3.83,Female,Biochemistry,5,Youga
+672,IT,Student_672,30,2.29,Female,Data Science and Artificial Intelligence,4,Youga
+673,Science,Student_673,16,0.18,Female,Mathematics,5,Youga
+674,Science,Student_674,26,3.02,Female,Geology,4,Chess
+675,Engineering,Student_675,17,0.02,Male,Mechanical design and production department,5,Football
+676,Science,Student_676,16,1.8,Female,Mathematics,2,Youga
+677,Science,Student_677,29,2.32,Male,Mathematics,4,Football
+678,Science,Student_678,20,0.75,Female,Biochemistry,2,Youga
+679,Business,Student_679,19,3.96,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+680,Geology,Student_680,23,0.59,Female,Earth Geology,2,Art
+681,Science,Student_681,18,0.59,Female,Biochemistry,1,Youga
+682,Science,Student_682,30,2.02,Male,Mathematics,4,Youga
+683,Engineering,Student_683,17,3.25,Male,Public works department,5,Art
+684,IT,Student_684,18,0.5,Male,Information Technology,1,Art
+685,Business,Student_685,23,2.43,Female,Actuarial Analysis and Risk Management,4,Youga
+686,Science,Student_686,28,1.64,Male,Mathematics,4,Chess
+687,Engineering,Student_687,23,1.22,Female,Mechanical design and production department,2,Chess
+688,Science,Student_688,26,3.96,Female,Physics,4,Art
+689,IT,Student_689,16,3.53,Male,Data Science and Artificial Intelligence,1,Art
+690,Business,Student_690,28,2.04,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+691,Geology,Student_691,19,1.46,Male,Earth Geology,4,Football
+692,Business,Student_692,30,0.27,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+693,Business,Student_693,21,0.13,Female,Finance and Investment Management,4,Youga
+694,IT,Student_694,26,3.33,Female,Data Science and Artificial Intelligence,4,Football
+695,IT,Student_695,29,0.53,Female,Information Technology,4,Youga
+696,Geology,Student_696,18,2.47,Female,Earth Geology,1,Youga
+697,Engineering,Student_697,17,3.03,Female,Nanotechnology,5,Youga
+698,Geology,Student_698,23,1.47,Male,Crystals,2,Youga
+699,Science,Student_699,29,2.37,Male,Geology,4,Football
+700,Engineering,Student_700,16,3.96,Male,Nanotechnology,3,Chess
+701,IT,Student_701,22,1.55,Female,Information Technology,1,Football
+702,Business,Student_702,27,0.42,Male,project Management,4,Art
+703,Geology,Student_703,18,3.24,Female,Earth Geology,1,Football
+704,Engineering,Student_704,25,1.17,Male,Mechanical design and production department,4,Football
+705,Engineering,Student_705,24,3.52,Male,Mechanical design and production department,3,Chess
+706,Geology,Student_706,25,0.92,Female,Crystals,4,Art
+707,IT,Student_707,16,1.67,Female,Software Development,5,Youga
+708,Geology,Student_708,27,2.19,Female,Crystals,4,Chess
+709,IT,Student_709,21,1.6,Female,Data Science and Artificial Intelligence,4,Football
+710,Business,Student_710,24,1.21,Male,Marketing Entrepreneurship and Innovation Management,4,Football
+711,Engineering,Student_711,17,0.16,Male,Renewable Energy Engineering,2,Art
+712,Geology,Student_712,30,3.9,Male,Crystals,4,Art
+713,Business,Student_713,18,0.25,Male,project Management,4,Chess
+714,IT,Student_714,22,2.99,Female,Software Development,1,Art
+715,Science,Student_715,19,0.6,Female,Physics,2,Youga
+716,Science,Student_716,23,2.19,Female,Physics,2,Youga
+717,Science,Student_717,29,1.83,Male,Geology,4,Art
+718,Geology,Student_718,21,3.44,Male,Earth Geology,2,Chess
+719,IT,Student_719,23,0.85,Male,Information Technology,2,Chess
+720,Geology,Student_720,25,2.62,Male,Crystals,4,Art
+721,Geology,Student_721,29,2.24,Female,Minerals,4,Chess
+722,Geology,Student_722,17,2.19,Male,Earth Geology,5,Football
+723,Business,Student_723,26,1.16,Male,Finance and Investment Management,4,Football
+724,IT,Student_724,17,1.36,Male,Information Technology,5,Art
+725,Engineering,Student_725,30,2.13,Female,Nanotechnology,4,Chess
+726,Geology,Student_726,19,1.09,Male,Crystals,1,Football
+727,IT,Student_727,26,2.42,Female,Information Technology,4,Art
+728,IT,Student_728,17,0.77,Female,Data Science and Artificial Intelligence,1,Youga
+729,Engineering,Student_729,26,3.26,Female,Mechanical design and production department,4,Football
+730,Geology,Student_730,19,0.93,Male,Minerals,2,Chess
+731,Geology,Student_731,27,3.99,Male,Crystals,4,Youga
+732,Science,Student_732,28,1.31,Female,Physics,4,Chess
+733,IT,Student_733,18,1.27,Male,Information Technology,1,Youga
+734,Geology,Student_734,25,1.0,Male,Minerals,4,Art
+735,Geology,Student_735,21,3.77,Female,Crystals,3,Chess
+736,Science,Student_736,25,3.87,Female,Physics,4,Chess
+737,Science,Student_737,18,3.09,Female,Physics,1,Youga
+738,Science,Student_738,30,1.72,Male,Biochemistry,4,Chess
+739,IT,Student_739,17,0.3,Female,Information Technology,4,Football
+740,IT,Student_740,18,1.73,Female,Data Science and Artificial Intelligence,1,Youga
+741,Science,Student_741,26,3.21,Female,Geology,4,Youga
+742,Engineering,Student_742,29,1.37,Male,Mechanical design and production department,4,Football
+743,IT,Student_743,16,1.83,Male,Data Science and Artificial Intelligence,1,Art
+744,Science,Student_744,26,1.81,Female,Mathematics,4,Chess
+745,IT,Student_745,18,1.45,Female,Software Development,1,Art
+746,IT,Student_746,16,0.32,Male,Software Development,5,Youga
+747,Business,Student_747,18,2.14,Male,Finance and Investment Management,4,Football
+748,Geology,Student_748,16,3.98,Female,Minerals,2,Chess
+749,Business,Student_749,21,3.45,Male,project Management,4,Football
+750,IT,Student_750,18,1.34,Female,Software Development,1,Youga
+751,Geology,Student_751,17,3.65,Female,Minerals,2,Football
+752,Geology,Student_752,24,2.97,Male,Crystals,3,Youga
+753,IT,Student_753,17,2.69,Male,Information Technology,3,Football
+754,Engineering,Student_754,17,2.44,Male,Nanotechnology,2,Football
+755,Business,Student_755,17,2.64,Male,project Management,4,Youga
+756,Geology,Student_756,27,1.77,Male,Minerals,4,Art
+757,IT,Student_757,22,3.9,Female,Data Science and Artificial Intelligence,1,Youga
+758,Business,Student_758,19,1.81,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+759,Geology,Student_759,19,0.98,Female,Crystals,1,Art
+760,Engineering,Student_760,27,1.89,Female,Public works department,4,Youga
+761,IT,Student_761,18,2.71,Female,Data Science and Artificial Intelligence,1,Football
+762,IT,Student_762,19,2.89,Male,Software Development,4,Youga
+763,Geology,Student_763,26,3.62,Female,Minerals,4,Art
+764,Geology,Student_764,25,3.98,Female,Minerals,4,Chess
+765,IT,Student_765,21,3.28,Male,Software Development,5,Youga
+766,Business,Student_766,20,2.4,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+767,IT,Student_767,29,2.45,Male,Software Development,4,Chess
+768,Geology,Student_768,16,1.91,Male,Crystals,1,Art
+769,Business,Student_769,29,2.72,Female,Finance and Investment Management,4,Youga
+770,Geology,Student_770,19,3.66,Male,Earth Geology,2,Youga
+771,Geology,Student_771,16,2.51,Male,Crystals,5,Art
+772,Engineering,Student_772,24,1.64,Female,Power Engineering,3,Art
+773,Business,Student_773,21,1.74,Male,project Management,4,Football
+774,Science,Student_774,27,0.23,Male,Geology,4,Youga
+775,IT,Student_775,23,0.56,Female,Software Development,2,Football
+776,Business,Student_776,24,3.54,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+777,Engineering,Student_777,20,1.02,Male,Power Engineering,5,Art
+778,Business,Student_778,30,1.92,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+779,Geology,Student_779,30,0.2,Male,Minerals,4,Art
+780,Engineering,Student_780,24,3.34,Female,Mechanical design and production department,3,Youga
+781,Science,Student_781,26,0.15,Female,Physics,4,Chess
+782,Science,Student_782,22,3.0,Male,Mathematics,1,Chess
+783,Engineering,Student_783,26,0.69,Female,Nanotechnology,4,Chess
+784,Science,Student_784,28,2.09,Female,Physics,4,Youga
+785,Business,Student_785,25,2.44,Male,Actuarial Analysis and Risk Management,4,Chess
+786,Geology,Student_786,26,1.06,Male,Earth Geology,4,Youga
+787,Engineering,Student_787,27,0.03,Female,Renewable Energy Engineering,4,Art
+788,Business,Student_788,27,3.32,Male,project Management,4,Chess
+789,Engineering,Student_789,16,3.98,Female,Power Engineering,1,Football
+790,Science,Student_790,19,2.45,Female,Geology,3,Football
+791,Geology,Student_791,29,1.1,Female,Earth Geology,4,Football
+792,Geology,Student_792,18,3.2,Female,Crystals,1,Art
+793,IT,Student_793,25,3.46,Male,Data Science and Artificial Intelligence,4,Youga
+794,IT,Student_794,24,3.55,Female,Software Development,3,Chess
+795,Geology,Student_795,26,1.07,Female,Crystals,4,Chess
+796,IT,Student_796,25,1.49,Female,Software Development,4,Football
+797,Business,Student_797,25,0.1,Male,project Management,4,Youga
+798,Science,Student_798,23,3.86,Female,Biochemistry,2,Football
+799,Engineering,Student_799,18,1.7,Male,Power Engineering,1,Art
+800,IT,Student_800,29,1.13,Male,Data Science and Artificial Intelligence,4,Art
+801,Business,Student_801,18,3.64,Male,Marketing Entrepreneurship and Innovation Management,4,Football
+802,Engineering,Student_802,21,3.12,Female,Public works department,2,Youga
+803,Engineering,Student_803,16,1.0,Female,Public works department,1,Football
+804,Engineering,Student_804,26,2.06,Female,Renewable Energy Engineering,4,Football
+805,Science,Student_805,25,1.08,Female,Physics,4,Football
+806,Geology,Student_806,20,3.34,Male,Crystals,4,Youga
+807,IT,Student_807,17,0.06,Male,Software Development,2,Chess
+808,Business,Student_808,19,1.65,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+809,Science,Student_809,18,0.17,Female,Geology,1,Youga
+810,Engineering,Student_810,24,3.71,Male,Renewable Energy Engineering,3,Art
+811,Business,Student_811,27,2.99,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+812,IT,Student_812,21,0.94,Male,Software Development,4,Youga
+813,Business,Student_813,29,1.82,Female,project Management,4,Chess
+814,Science,Student_814,23,0.49,Male,Geology,2,Football
+815,Business,Student_815,21,0.13,Male,Actuarial Analysis and Risk Management,4,Chess
+816,IT,Student_816,25,0.54,Male,Data Science and Artificial Intelligence,4,Art
+817,Engineering,Student_817,29,3.18,Male,Renewable Energy Engineering,4,Chess
+818,Science,Student_818,17,3.11,Female,Physics,4,Art
+819,Geology,Student_819,26,2.38,Female,Earth Geology,4,Art
+820,Engineering,Student_820,17,1.28,Female,Nanotechnology,2,Chess
+821,Science,Student_821,29,1.3,Female,Biochemistry,4,Football
+822,Geology,Student_822,18,2.52,Female,Crystals,1,Art
+823,Science,Student_823,22,0.05,Female,Biochemistry,1,Youga
+824,Engineering,Student_824,27,2.81,Male,Nanotechnology,4,Art
+825,IT,Student_825,28,0.34,Female,Software Development,4,Football
+826,Science,Student_826,28,3.74,Female,Biochemistry,4,Chess
+827,Engineering,Student_827,17,1.81,Male,Power Engineering,5,Art
+828,Engineering,Student_828,24,2.54,Male,Power Engineering,3,Football
+829,Science,Student_829,25,1.76,Female,Mathematics,4,Chess
+830,IT,Student_830,28,0.69,Male,Data Science and Artificial Intelligence,4,Youga
+831,Engineering,Student_831,27,0.25,Female,Power Engineering,4,Art
+832,Science,Student_832,23,1.45,Male,Mathematics,2,Art
+833,Geology,Student_833,28,0.79,Female,Minerals,4,Football
+834,Science,Student_834,21,2.61,Female,Biochemistry,4,Youga
+835,Geology,Student_835,23,0.2,Male,Minerals,2,Football
+836,Science,Student_836,20,0.91,Female,Mathematics,1,Chess
+837,IT,Student_837,25,3.94,Male,Data Science and Artificial Intelligence,4,Art
+838,Geology,Student_838,21,3.01,Male,Minerals,4,Football
+839,Business,Student_839,16,1.96,Female,Actuarial Analysis and Risk Management,4,Art
+840,Business,Student_840,19,3.06,Male,project Management,4,Football
+841,Engineering,Student_841,28,0.91,Male,Power Engineering,4,Football
+842,Science,Student_842,28,3.32,Male,Geology,4,Chess
+843,Business,Student_843,30,0.13,Male,Actuarial Analysis and Risk Management,4,Football
+844,IT,Student_844,20,1.42,Male,Information Technology,3,Football
+845,Engineering,Student_845,22,0.11,Female,Nanotechnology,1,Art
+846,Business,Student_846,23,0.93,Male,Actuarial Analysis and Risk Management,4,Football
+847,Science,Student_847,24,0.8,Male,Geology,3,Football
+848,Geology,Student_848,18,2.04,Female,Earth Geology,1,Youga
+849,Engineering,Student_849,22,0.77,Male,Nanotechnology,1,Youga
+850,Engineering,Student_850,26,0.75,Male,Nanotechnology,4,Football
+851,IT,Student_851,27,1.03,Male,Data Science and Artificial Intelligence,4,Youga
+852,IT,Student_852,22,2.61,Female,Software Development,1,Art
+853,Geology,Student_853,17,3.59,Male,Earth Geology,1,Youga
+854,IT,Student_854,29,0.51,Male,Data Science and Artificial Intelligence,4,Football
+855,Geology,Student_855,24,3.43,Male,Crystals,3,Chess
+856,Geology,Student_856,27,3.72,Female,Minerals,4,Chess
+857,IT,Student_857,26,3.38,Female,Data Science and Artificial Intelligence,4,Art
+858,Engineering,Student_858,22,3.94,Female,Renewable Energy Engineering,1,Football
+859,Geology,Student_859,30,2.21,Female,Crystals,4,Football
+860,Business,Student_860,17,2.8,Male,Finance and Investment Management,4,Chess
+861,Geology,Student_861,16,3.42,Female,Crystals,3,Art
+862,IT,Student_862,25,0.23,Female,Information Technology,4,Football
+863,IT,Student_863,20,0.98,Male,Data Science and Artificial Intelligence,4,Youga
+864,Business,Student_864,21,2.19,Female,project Management,4,Art
+865,IT,Student_865,20,1.07,Male,Data Science and Artificial Intelligence,2,Art
+866,Engineering,Student_866,22,3.79,Male,Renewable Energy Engineering,1,Football
+867,Science,Student_867,23,3.8,Male,Geology,2,Art
+868,Geology,Student_868,24,0.19,Male,Earth Geology,3,Art
+869,Business,Student_869,18,0.33,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+870,Geology,Student_870,19,3.66,Female,Earth Geology,2,Chess
+871,Business,Student_871,25,1.16,Female,Marketing Entrepreneurship and Innovation Management,4,Football
+872,Geology,Student_872,28,0.33,Female,Crystals,4,Youga
+873,Geology,Student_873,24,0.41,Female,Earth Geology,3,Art
+874,Geology,Student_874,27,0.5,Male,Earth Geology,4,Youga
+875,Business,Student_875,23,3.79,Male,Actuarial Analysis and Risk Management,4,Youga
+876,IT,Student_876,16,3.62,Male,Information Technology,5,Youga
+877,IT,Student_877,20,3.03,Female,Software Development,4,Youga
+878,Engineering,Student_878,20,3.83,Male,Renewable Energy Engineering,4,Chess
+879,Engineering,Student_879,17,1.69,Female,Power Engineering,4,Football
+880,Geology,Student_880,20,3.94,Female,Crystals,4,Art
+881,Engineering,Student_881,27,1.94,Male,Mechanical design and production department,4,Art
+882,Science,Student_882,30,3.31,Female,Geology,4,Chess
+883,Engineering,Student_883,22,2.51,Male,Renewable Energy Engineering,1,Art
+884,IT,Student_884,30,2.66,Female,Information Technology,4,Art
+885,IT,Student_885,23,2.96,Female,Data Science and Artificial Intelligence,2,Youga
+886,Engineering,Student_886,28,0.45,Female,Public works department,4,Football
+887,Science,Student_887,24,0.76,Female,Biochemistry,3,Chess
+888,Science,Student_888,26,3.4,Female,Geology,4,Youga
+889,Business,Student_889,17,2.5,Male,Marketing Entrepreneurship and Innovation Management,4,Football
+890,Geology,Student_890,21,0.99,Female,Earth Geology,3,Chess
+891,Engineering,Student_891,24,2.24,Female,Mechanical design and production department,3,Art
+892,Geology,Student_892,21,1.89,Female,Earth Geology,4,Youga
+893,Science,Student_893,24,3.96,Male,Physics,3,Art
+894,IT,Student_894,17,3.79,Female,Software Development,3,Youga
+895,Science,Student_895,27,0.81,Female,Mathematics,4,Youga
+896,Science,Student_896,24,0.8,Male,Biochemistry,3,Youga
+897,Science,Student_897,18,3.8,Male,Biochemistry,1,Art
+898,Business,Student_898,30,2.97,Male,project Management,4,Chess
+899,Engineering,Student_899,27,3.14,Female,Mechanical design and production department,4,Art
+900,IT,Student_900,30,2.84,Male,Data Science and Artificial Intelligence,4,Chess
+901,Science,Student_901,27,1.81,Female,Geology,4,Chess
+902,Science,Student_902,24,3.02,Female,Mathematics,3,Chess
+903,Business,Student_903,28,0.94,Female,Actuarial Analysis and Risk Management,4,Chess
+904,Engineering,Student_904,25,0.55,Male,Mechanical design and production department,4,Youga
+905,Science,Student_905,22,1.51,Male,Physics,1,Chess
+906,IT,Student_906,27,1.43,Female,Data Science and Artificial Intelligence,4,Football
+907,Engineering,Student_907,23,2.02,Male,Public works department,2,Art
+908,Business,Student_908,28,3.13,Female,project Management,4,Youga
+909,IT,Student_909,18,3.13,Female,Data Science and Artificial Intelligence,1,Art
+910,Geology,Student_910,18,0.3,Female,Earth Geology,1,Art
+911,Engineering,Student_911,22,0.82,Female,Power Engineering,1,Chess
+912,Geology,Student_912,28,2.21,Female,Crystals,4,Youga
+913,Business,Student_913,17,2.3,Male,Finance and Investment Management,4,Youga
+914,Business,Student_914,23,2.09,Male,Finance and Investment Management,4,Youga
+915,Geology,Student_915,25,1.38,Male,Earth Geology,4,Youga
+916,IT,Student_916,22,3.95,Female,Software Development,1,Chess
+917,IT,Student_917,30,3.11,Male,Information Technology,4,Football
+918,Science,Student_918,19,2.37,Female,Geology,5,Chess
+919,Business,Student_919,17,1.08,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+920,Engineering,Student_920,17,3.57,Female,Public works department,2,Football
+921,IT,Student_921,28,2.2,Male,Data Science and Artificial Intelligence,4,Chess
+922,Engineering,Student_922,25,3.89,Male,Power Engineering,4,Youga
+923,Geology,Student_923,28,0.03,Female,Crystals,4,Youga
+924,Science,Student_924,18,3.28,Male,Biochemistry,1,Youga
+925,IT,Student_925,24,2.88,Male,Data Science and Artificial Intelligence,3,Football
+926,Science,Student_926,21,0.06,Female,Biochemistry,4,Youga
+927,Geology,Student_927,24,1.97,Male,Minerals,3,Youga
+928,Engineering,Student_928,18,2.09,Female,Mechanical design and production department,1,Football
+929,Science,Student_929,17,1.98,Male,Geology,5,Football
+930,IT,Student_930,17,3.3,Female,Data Science and Artificial Intelligence,3,Art
+931,Engineering,Student_931,19,0.62,Male,Power Engineering,5,Art
+932,Science,Student_932,19,0.06,Male,Mathematics,4,Art
+933,Geology,Student_933,29,1.41,Male,Crystals,4,Art
+934,Business,Student_934,23,3.92,Male,project Management,4,Football
+935,Geology,Student_935,26,1.06,Male,Minerals,4,Football
+936,IT,Student_936,23,3.82,Male,Data Science and Artificial Intelligence,2,Art
+937,IT,Student_937,30,1.81,Male,Information Technology,4,Football
+938,Business,Student_938,19,3.98,Male,Actuarial Analysis and Risk Management,4,Youga
+939,Geology,Student_939,28,3.65,Male,Minerals,4,Art
+940,Geology,Student_940,26,0.86,Male,Minerals,4,Youga
+941,Engineering,Student_941,22,1.45,Female,Public works department,1,Chess
+942,Business,Student_942,27,2.78,Male,Actuarial Analysis and Risk Management,4,Chess
+943,Engineering,Student_943,17,0.99,Female,Nanotechnology,5,Football
+944,Science,Student_944,27,3.81,Male,Biochemistry,4,Football
+945,IT,Student_945,26,1.63,Female,Data Science and Artificial Intelligence,4,Chess
+946,Business,Student_946,27,2.0,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+947,Business,Student_947,26,1.37,Female,Finance and Investment Management,4,Chess
+948,Engineering,Student_948,28,0.21,Female,Mechanical design and production department,4,Chess
+949,Geology,Student_949,22,3.83,Female,Earth Geology,1,Youga
+950,Business,Student_950,18,3.16,Male,project Management,4,Art
+951,Business,Student_951,28,0.85,Male,Finance and Investment Management,4,Youga
+952,Engineering,Student_952,28,0.68,Female,Mechanical design and production department,4,Youga
+953,Engineering,Student_953,22,2.48,Male,Public works department,1,Art
+954,Business,Student_954,20,0.42,Male,Actuarial Analysis and Risk Management,4,Art
+955,Science,Student_955,24,2.32,Male,Biochemistry,3,Youga
+956,Business,Student_956,18,1.33,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+957,Business,Student_957,26,0.13,Male,Finance and Investment Management,4,Chess
+958,Geology,Student_958,24,2.75,Male,Crystals,3,Football
+959,Science,Student_959,27,2.84,Male,Biochemistry,4,Youga
+960,Engineering,Student_960,28,1.35,Female,Nanotechnology,4,Youga
+961,IT,Student_961,20,0.44,Male,Software Development,3,Art
+962,Engineering,Student_962,23,1.14,Male,Public works department,2,Chess
+963,Science,Student_963,19,0.05,Male,Physics,3,Football
+964,Science,Student_964,21,3.06,Female,Mathematics,3,Chess
+965,Geology,Student_965,29,2.09,Female,Minerals,4,Football
+966,Business,Student_966,25,2.69,Male,project Management,4,Youga
+967,Geology,Student_967,21,1.43,Male,Crystals,1,Chess
+968,Science,Student_968,26,2.0,Male,Mathematics,4,Youga
+969,Engineering,Student_969,19,1.43,Male,Renewable Energy Engineering,3,Youga
+970,IT,Student_970,20,0.17,Female,Data Science and Artificial Intelligence,3,Youga
+971,IT,Student_971,24,3.29,Male,Data Science and Artificial Intelligence,3,Art
+972,Engineering,Student_972,20,3.49,Male,Mechanical design and production department,3,Youga
+973,Engineering,Student_973,22,2.58,Male,Mechanical design and production department,1,Football
+974,IT,Student_974,23,2.35,Female,Information Technology,2,Chess
+975,Geology,Student_975,26,0.44,Male,Earth Geology,4,Chess
+976,Geology,Student_976,28,2.5,Male,Minerals,4,Youga
+977,Science,Student_977,27,0.59,Female,Physics,4,Art
+978,IT,Student_978,19,2.42,Female,Data Science and Artificial Intelligence,1,Art
+979,Business,Student_979,28,2.57,Female,Finance and Investment Management,4,Art
+980,Geology,Student_980,24,0.32,Female,Earth Geology,3,Youga
+981,Science,Student_981,18,0.06,Male,Mathematics,1,Youga
+982,Geology,Student_982,24,3.92,Male,Crystals,3,Football
+983,Business,Student_983,26,0.5,Male,Finance and Investment Management,4,Youga
+984,Science,Student_984,30,2.31,Male,Mathematics,4,Chess
+985,IT,Student_985,20,2.19,Female,Software Development,5,Football
+986,Geology,Student_986,25,3.85,Female,Minerals,4,Chess
+987,Engineering,Student_987,28,0.61,Male,Nanotechnology,4,Art
+988,Business,Student_988,28,2.54,Male,project Management,4,Chess
+989,IT,Student_989,29,1.03,Male,Data Science and Artificial Intelligence,4,Art
+990,Science,Student_990,28,0.46,Male,Geology,4,Chess
+991,Geology,Student_991,17,2.95,Female,Crystals,3,Football
+992,IT,Student_992,19,3.43,Female,Information Technology,2,Chess
+993,Geology,Student_993,16,1.01,Female,Earth Geology,4,Art
+994,IT,Student_994,16,2.69,Female,Information Technology,4,Football
+995,Business,Student_995,22,2.21,Female,project Management,4,Art
+996,Engineering,Student_996,30,0.96,Male,Mechanical design and production department,4,Youga
+997,Science,Student_997,18,3.1,Female,Biochemistry,1,Youga
+998,Science,Student_998,17,2.19,Female,Biochemistry,2,Chess
+999,Science,Student_999,18,0.33,Male,Geology,1,Football
+1000,Science,Student_1000,26,2.77,Female,Geology,4,Football
+1001,IT,Student_1001,22,0.98,Female,Data Science and Artificial Intelligence,1,Art
+1002,Engineering,Student_1002,29,0.61,Female,Public works department,4,Art
+1003,Engineering,Student_1003,28,2.98,Female,Public works department,4,Football
+1004,Business,Student_1004,20,1.1,Female,project Management,4,Chess
+1005,IT,Student_1005,26,1.44,Female,Information Technology,4,Chess
+1006,IT,Student_1006,19,3.61,Male,Data Science and Artificial Intelligence,5,Youga
+1007,Business,Student_1007,30,1.07,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+1008,Science,Student_1008,18,0.11,Female,Biochemistry,1,Art
+1009,Geology,Student_1009,29,3.2,Male,Earth Geology,4,Youga
+1010,Science,Student_1010,26,1.95,Female,Biochemistry,4,Chess
+1011,IT,Student_1011,29,0.35,Female,Data Science and Artificial Intelligence,4,Chess
+1012,Science,Student_1012,21,2.0,Male,Mathematics,2,Art
+1013,Engineering,Student_1013,21,0.49,Female,Nanotechnology,3,Football
+1014,Engineering,Student_1014,20,0.83,Female,Mechanical design and production department,4,Football
+1015,Geology,Student_1015,29,3.72,Female,Earth Geology,4,Chess
+1016,IT,Student_1016,18,0.76,Male,Data Science and Artificial Intelligence,1,Art
+1017,Engineering,Student_1017,29,2.69,Female,Public works department,4,Chess
+1018,Science,Student_1018,17,0.93,Male,Physics,4,Art
+1019,Geology,Student_1019,19,0.72,Female,Minerals,5,Youga
+1020,Engineering,Student_1020,30,3.0,Male,Power Engineering,4,Youga
+1021,Science,Student_1021,28,1.69,Male,Biochemistry,4,Chess
+1022,Engineering,Student_1022,22,0.37,Male,Power Engineering,1,Youga
+1023,Business,Student_1023,17,2.7,Male,project Management,4,Chess
+1024,Business,Student_1024,28,0.52,Male,Finance and Investment Management,4,Chess
+1025,Geology,Student_1025,30,0.73,Female,Crystals,4,Chess
+1026,Engineering,Student_1026,19,2.58,Male,Public works department,1,Football
+1027,Engineering,Student_1027,23,2.69,Female,Renewable Energy Engineering,2,Youga
+1028,Business,Student_1028,23,3.98,Male,Actuarial Analysis and Risk Management,4,Youga
+1029,Engineering,Student_1029,24,1.93,Female,Public works department,3,Football
+1030,Engineering,Student_1030,29,1.44,Female,Renewable Energy Engineering,4,Football
+1031,Geology,Student_1031,18,3.28,Male,Minerals,1,Football
+1032,Science,Student_1032,29,2.87,Male,Mathematics,4,Football
+1033,Science,Student_1033,18,0.89,Male,Mathematics,1,Football
+1034,Science,Student_1034,23,0.43,Female,Physics,2,Football
+1035,Business,Student_1035,28,0.71,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+1036,Geology,Student_1036,24,3.26,Male,Minerals,3,Art
+1037,Science,Student_1037,16,3.5,Female,Mathematics,5,Football
+1038,Business,Student_1038,30,0.57,Male,Marketing Entrepreneurship and Innovation Management,4,Chess
+1039,IT,Student_1039,23,3.07,Female,Software Development,2,Football
+1040,Business,Student_1040,20,1.29,Male,Actuarial Analysis and Risk Management,4,Football
+1041,Science,Student_1041,16,0.15,Male,Physics,5,Football
+1042,Business,Student_1042,29,2.23,Female,Finance and Investment Management,4,Chess
+1043,Business,Student_1043,17,3.21,Female,Marketing Entrepreneurship and Innovation Management,4,Youga
+1044,Science,Student_1044,17,1.94,Male,Mathematics,3,Art
+1045,Science,Student_1045,23,0.61,Male,Biochemistry,2,Football
+1046,Geology,Student_1046,25,3.01,Male,Minerals,4,Art
+1047,Business,Student_1047,24,1.13,Female,Actuarial Analysis and Risk Management,4,Football
+1048,Engineering,Student_1048,29,0.28,Male,Renewable Energy Engineering,4,Football
+1049,Geology,Student_1049,16,2.09,Male,Earth Geology,2,Football
+1050,Geology,Student_1050,16,0.56,Female,Crystals,2,Art
+1051,Geology,Student_1051,20,2.26,Male,Minerals,2,Youga
+1052,Engineering,Student_1052,19,3.93,Female,Mechanical design and production department,1,Youga
+1053,Geology,Student_1053,20,2.15,Female,Minerals,2,Art
+1054,Science,Student_1054,23,2.02,Female,Biochemistry,2,Youga
+1055,IT,Student_1055,24,2.75,Female,Information Technology,3,Football
+1056,Science,Student_1056,26,1.13,Male,Geology,4,Art
+1057,Science,Student_1057,18,3.25,Female,Biochemistry,1,Chess
+1058,Geology,Student_1058,20,0.43,Female,Crystals,5,Youga
+1059,Science,Student_1059,23,0.28,Female,Geology,2,Youga
+1060,Business,Student_1060,29,2.51,Male,Actuarial Analysis and Risk Management,4,Art
+1061,Business,Student_1061,30,0.72,Male,Finance and Investment Management,4,Football
+1062,Engineering,Student_1062,26,3.79,Female,Public works department,4,Football
+1063,Business,Student_1063,19,3.12,Male,Marketing Entrepreneurship and Innovation Management,4,Art
+1064,IT,Student_1064,22,0.13,Female,Software Development,1,Chess
+1065,Engineering,Student_1065,30,1.06,Female,Nanotechnology,4,Chess
+1066,Geology,Student_1066,25,2.84,Male,Crystals,4,Art
+1067,Business,Student_1067,18,3.86,Female,Actuarial Analysis and Risk Management,4,Football
+1068,IT,Student_1068,24,1.54,Female,Data Science and Artificial Intelligence,3,Youga
+1069,Science,Student_1069,24,1.43,Male,Geology,3,Youga
+1070,Science,Student_1070,18,2.82,Male,Physics,1,Youga
+1071,IT,Student_1071,24,1.59,Female,Software Development,3,Chess
+1072,IT,Student_1072,25,0.67,Male,Software Development,4,Football
+1073,Science,Student_1073,28,0.97,Female,Biochemistry,4,Football
+1074,Business,Student_1074,22,3.58,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+1075,IT,Student_1075,20,3.62,Female,Software Development,1,Art
+1076,Geology,Student_1076,22,1.14,Male,Crystals,1,Football
+1077,Business,Student_1077,30,1.72,Male,project Management,4,Art
+1078,Science,Student_1078,29,3.83,Female,Biochemistry,4,Football
+1079,Geology,Student_1079,16,3.81,Male,Minerals,3,Chess
+1080,Geology,Student_1080,17,3.4,Female,Crystals,5,Chess
+1081,Engineering,Student_1081,26,0.06,Female,Mechanical design and production department,4,Youga
+1082,Business,Student_1082,23,2.12,Female,Actuarial Analysis and Risk Management,4,Youga
+1083,Science,Student_1083,30,0.11,Female,Geology,4,Football
+1084,Engineering,Student_1084,26,0.81,Male,Renewable Energy Engineering,4,Football
+1085,Geology,Student_1085,19,3.18,Female,Earth Geology,2,Youga
+1086,Geology,Student_1086,28,3.89,Female,Minerals,4,Art
+1087,Science,Student_1087,30,0.46,Female,Geology,4,Chess
+1088,Science,Student_1088,17,1.73,Male,Geology,5,Art
+1089,Geology,Student_1089,30,1.87,Female,Earth Geology,4,Youga
+1090,Engineering,Student_1090,24,3.4,Male,Mechanical design and production department,3,Chess
+1091,Science,Student_1091,20,3.29,Female,Geology,3,Art
+1092,Science,Student_1092,19,1.54,Male,Physics,1,Art
+1093,Business,Student_1093,21,0.8,Male,Actuarial Analysis and Risk Management,4,Art
+1094,Business,Student_1094,25,2.43,Male,Actuarial Analysis and Risk Management,4,Art
+1095,IT,Student_1095,23,1.99,Female,Software Development,2,Art
+1096,Science,Student_1096,17,1.91,Female,Mathematics,1,Art
+1097,Geology,Student_1097,21,2.81,Male,Minerals,1,Youga
+1098,Engineering,Student_1098,24,1.66,Male,Power Engineering,3,Chess
+1099,Science,Student_1099,25,0.51,Female,Geology,4,Football
+1100,Geology,Student_1100,29,3.29,Female,Earth Geology,4,Art
+1101,Geology,Student_1101,25,0.38,Female,Minerals,4,Art
+1102,IT,Student_1102,26,1.61,Male,Software Development,4,Art
+1103,Geology,Student_1103,28,2.44,Male,Crystals,4,Art
+1104,Engineering,Student_1104,30,2.52,Male,Nanotechnology,4,Youga
+1105,Engineering,Student_1105,19,2.99,Male,Renewable Energy Engineering,1,Chess
+1106,Business,Student_1106,29,0.74,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+1107,Engineering,Student_1107,23,2.91,Female,Mechanical design and production department,2,Youga
+1108,Business,Student_1108,20,3.43,Male,Actuarial Analysis and Risk Management,4,Chess
+1109,Engineering,Student_1109,23,2.53,Male,Mechanical design and production department,2,Football
+1110,Science,Student_1110,22,1.73,Male,Physics,1,Art
+1111,IT,Student_1111,19,3.2,Female,Information Technology,4,Art
+1112,Science,Student_1112,30,1.99,Female,Mathematics,4,Art
+1113,Science,Student_1113,17,0.85,Female,Physics,4,Chess
+1114,Geology,Student_1114,22,0.2,Male,Minerals,1,Youga
+1115,IT,Student_1115,21,0.56,Female,Software Development,4,Chess
+1116,IT,Student_1116,16,1.07,Male,Information Technology,4,Chess
+1117,Engineering,Student_1117,24,2.47,Female,Public works department,3,Chess
+1118,Business,Student_1118,28,3.92,Male,Finance and Investment Management,4,Art
+1119,Geology,Student_1119,30,1.45,Female,Minerals,4,Football
+1120,Engineering,Student_1120,21,3.54,Female,Renewable Energy Engineering,1,Art
+1121,Business,Student_1121,19,3.25,Female,Finance and Investment Management,4,Chess
+1122,Science,Student_1122,27,1.19,Male,Mathematics,4,Art
+1123,Science,Student_1123,30,3.24,Male,Physics,4,Youga
+1124,IT,Student_1124,22,0.76,Female,Data Science and Artificial Intelligence,1,Football
+1125,IT,Student_1125,19,2.62,Male,Information Technology,1,Chess
+1126,IT,Student_1126,22,1.06,Female,Data Science and Artificial Intelligence,1,Youga
+1127,IT,Student_1127,16,3.64,Male,Data Science and Artificial Intelligence,3,Football
+1128,Science,Student_1128,18,2.79,Female,Physics,1,Art
+1129,Science,Student_1129,19,1.64,Male,Geology,5,Football
+1130,Science,Student_1130,16,3.11,Male,Mathematics,4,Football
+1131,IT,Student_1131,16,3.69,Female,Data Science and Artificial Intelligence,4,Football
+1132,Geology,Student_1132,28,3.07,Female,Minerals,4,Football
+1133,Engineering,Student_1133,29,1.53,Male,Public works department,4,Youga
+1134,Geology,Student_1134,28,3.41,Female,Earth Geology,4,Chess
+1135,Engineering,Student_1135,20,1.29,Male,Power Engineering,5,Youga
+1136,Business,Student_1136,20,3.56,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+1137,Geology,Student_1137,18,1.09,Male,Minerals,1,Football
+1138,Science,Student_1138,23,1.79,Female,Geology,2,Art
+1139,Science,Student_1139,22,1.44,Female,Mathematics,1,Art
+1140,Geology,Student_1140,27,1.25,Male,Crystals,4,Youga
+1141,Business,Student_1141,19,0.5,Female,Finance and Investment Management,4,Chess
+1142,Science,Student_1142,18,0.27,Female,Biochemistry,1,Football
+1143,Geology,Student_1143,20,2.88,Male,Earth Geology,1,Chess
+1144,IT,Student_1144,20,1.09,Female,Information Technology,1,Youga
+1145,Geology,Student_1145,18,2.63,Male,Earth Geology,1,Chess
+1146,Business,Student_1146,22,0.33,Female,Finance and Investment Management,4,Football
+1147,Engineering,Student_1147,27,2.93,Female,Power Engineering,4,Football
+1148,Geology,Student_1148,21,1.89,Male,Minerals,5,Chess
+1149,IT,Student_1149,21,0.57,Female,Data Science and Artificial Intelligence,5,Art
+1150,Science,Student_1150,25,1.36,Male,Physics,4,Chess
+1151,Geology,Student_1151,26,2.56,Male,Crystals,4,Art
+1152,Business,Student_1152,19,2.78,Female,Actuarial Analysis and Risk Management,4,Youga
+1153,Geology,Student_1153,25,2.82,Male,Crystals,4,Art
+1154,Engineering,Student_1154,24,3.16,Male,Public works department,3,Youga
+1155,IT,Student_1155,18,3.86,Male,Data Science and Artificial Intelligence,1,Youga
+1156,Engineering,Student_1156,25,3.1,Male,Mechanical design and production department,4,Art
+1157,IT,Student_1157,29,0.15,Female,Information Technology,4,Football
+1158,Geology,Student_1158,24,3.79,Male,Earth Geology,3,Art
+1159,Science,Student_1159,23,0.35,Female,Geology,2,Chess
+1160,IT,Student_1160,30,0.7,Female,Data Science and Artificial Intelligence,4,Football
+1161,Geology,Student_1161,18,1.31,Male,Earth Geology,1,Chess
+1162,Geology,Student_1162,25,2.54,Male,Crystals,4,Chess
+1163,Geology,Student_1163,25,3.98,Female,Minerals,4,Football
+1164,Engineering,Student_1164,28,0.9,Female,Public works department,4,Youga
+1165,IT,Student_1165,22,3.87,Female,Information Technology,1,Art
+1166,Geology,Student_1166,29,1.78,Male,Crystals,4,Art
+1167,IT,Student_1167,25,1.39,Male,Information Technology,4,Chess
+1168,Engineering,Student_1168,17,0.03,Female,Nanotechnology,2,Art
+1169,Geology,Student_1169,26,1.12,Male,Minerals,4,Youga
+1170,Engineering,Student_1170,25,2.24,Female,Public works department,4,Youga
+1171,IT,Student_1171,17,2.65,Male,Data Science and Artificial Intelligence,4,Football
+1172,IT,Student_1172,27,3.67,Male,Data Science and Artificial Intelligence,4,Chess
+1173,Geology,Student_1173,30,2.14,Female,Minerals,4,Chess
+1174,Engineering,Student_1174,16,3.05,Female,Mechanical design and production department,3,Youga
+1175,Business,Student_1175,17,2.04,Male,project Management,4,Football
+1176,Science,Student_1176,21,0.28,Female,Biochemistry,2,Chess
+1177,Engineering,Student_1177,27,3.42,Female,Public works department,4,Chess
+1178,IT,Student_1178,17,0.19,Male,Information Technology,5,Art
+1179,Science,Student_1179,21,3.26,Female,Geology,3,Youga
+1180,Geology,Student_1180,19,3.63,Male,Crystals,3,Art
+1181,Science,Student_1181,29,1.47,Male,Physics,4,Chess
+1182,IT,Student_1182,26,3.43,Male,Software Development,4,Chess
+1183,Business,Student_1183,25,1.09,Female,project Management,4,Youga
+1184,Business,Student_1184,17,2.6,Male,Finance and Investment Management,4,Football
+1185,Geology,Student_1185,27,3.63,Male,Crystals,4,Football
+1186,Geology,Student_1186,30,0.21,Male,Minerals,4,Art
+1187,Science,Student_1187,17,1.38,Male,Physics,3,Art
+1188,Geology,Student_1188,18,1.75,Male,Crystals,1,Football
+1189,Geology,Student_1189,26,0.07,Male,Minerals,4,Youga
+1190,Engineering,Student_1190,20,2.84,Female,Public works department,1,Football
+1191,Engineering,Student_1191,24,1.0,Female,Public works department,3,Football
+1192,Business,Student_1192,24,1.6,Female,Finance and Investment Management,4,Chess
+1193,Business,Student_1193,18,2.12,Male,Finance and Investment Management,4,Chess
+1194,Business,Student_1194,25,1.79,Male,Actuarial Analysis and Risk Management,4,Art
+1195,IT,Student_1195,19,3.97,Female,Software Development,1,Football
+1196,Science,Student_1196,27,3.06,Male,Geology,4,Art
+1197,IT,Student_1197,30,0.57,Female,Data Science and Artificial Intelligence,4,Football
+1198,IT,Student_1198,25,0.67,Male,Software Development,4,Chess
+1199,IT,Student_1199,22,3.71,Female,Software Development,1,Football
+1200,Geology,Student_1200,17,2.85,Male,Crystals,3,Chess
+1201,IT,Student_1201,20,1.47,Male,Information Technology,3,Art
+1202,IT,Student_1202,18,1.05,Female,Software Development,1,Football
+1203,IT,Student_1203,30,2.34,Male,Software Development,4,Art
+1204,Geology,Student_1204,30,3.65,Male,Minerals,4,Football
+1205,IT,Student_1205,19,0.26,Male,Data Science and Artificial Intelligence,5,Chess
+1206,Geology,Student_1206,17,0.82,Female,Minerals,4,Youga
+1207,Business,Student_1207,29,3.45,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+1208,Engineering,Student_1208,23,2.61,Male,Public works department,2,Youga
+1209,Engineering,Student_1209,27,2.73,Female,Public works department,4,Art
+1210,IT,Student_1210,26,1.12,Male,Information Technology,4,Football
+1211,IT,Student_1211,19,3.9,Male,Information Technology,4,Chess
+1212,Science,Student_1212,25,1.81,Female,Geology,4,Youga
+1213,Science,Student_1213,26,1.74,Male,Geology,4,Football
+1214,Engineering,Student_1214,21,0.54,Male,Nanotechnology,1,Youga
+1215,Science,Student_1215,25,2.05,Female,Physics,4,Art
+1216,Geology,Student_1216,16,3.64,Male,Earth Geology,1,Art
+1217,IT,Student_1217,26,2.16,Female,Information Technology,4,Chess
+1218,Engineering,Student_1218,17,2.5,Female,Power Engineering,5,Football
+1219,Business,Student_1219,23,3.14,Female,Actuarial Analysis and Risk Management,4,Chess
+1220,Geology,Student_1220,28,3.76,Male,Crystals,4,Football
+1221,Science,Student_1221,26,3.03,Male,Biochemistry,4,Football
+1222,Geology,Student_1222,19,3.98,Male,Minerals,2,Art
+1223,IT,Student_1223,19,3.17,Male,Software Development,4,Football
+1224,IT,Student_1224,29,3.62,Male,Information Technology,4,Youga
+1225,Engineering,Student_1225,17,1.19,Female,Public works department,3,Youga
+1226,Science,Student_1226,23,2.29,Male,Mathematics,2,Youga
+1227,Geology,Student_1227,17,1.62,Female,Earth Geology,1,Youga
+1228,Geology,Student_1228,29,2.5,Male,Earth Geology,4,Youga
+1229,IT,Student_1229,22,3.85,Female,Data Science and Artificial Intelligence,1,Chess
+1230,IT,Student_1230,23,0.39,Female,Software Development,2,Art
+1231,Business,Student_1231,22,2.53,Male,Finance and Investment Management,4,Youga
+1232,Science,Student_1232,25,2.26,Female,Mathematics,4,Football
+1233,Science,Student_1233,29,1.36,Male,Geology,4,Youga
+1234,Engineering,Student_1234,25,2.48,Female,Renewable Energy Engineering,4,Youga
+1235,IT,Student_1235,19,3.35,Male,Data Science and Artificial Intelligence,5,Youga
+1236,Geology,Student_1236,28,2.48,Male,Earth Geology,4,Chess
+1237,Geology,Student_1237,16,4.0,Female,Minerals,2,Youga
+1238,IT,Student_1238,30,0.57,Female,Data Science and Artificial Intelligence,4,Chess
+1239,Science,Student_1239,23,2.52,Female,Physics,2,Art
+1240,IT,Student_1240,21,1.07,Male,Data Science and Artificial Intelligence,2,Youga
+1241,IT,Student_1241,18,2.43,Female,Information Technology,1,Football
+1242,Engineering,Student_1242,19,1.01,Male,Public works department,3,Football
+1243,Geology,Student_1243,17,1.63,Female,Crystals,1,Art
+1244,Science,Student_1244,19,2.62,Male,Mathematics,4,Youga
+1245,Geology,Student_1245,22,1.45,Male,Crystals,1,Football
+1246,Engineering,Student_1246,23,2.9,Male,Mechanical design and production department,2,Chess
+1247,IT,Student_1247,16,3.75,Male,Information Technology,2,Football
+1248,Engineering,Student_1248,27,3.9,Male,Mechanical design and production department,4,Youga
+1249,Engineering,Student_1249,26,0.87,Male,Mechanical design and production department,4,Chess
+1250,Geology,Student_1250,30,3.5,Female,Earth Geology,4,Football
+1251,Science,Student_1251,28,0.41,Male,Biochemistry,4,Youga
+1252,Business,Student_1252,16,1.34,Female,Finance and Investment Management,4,Art
+1253,IT,Student_1253,30,0.86,Male,Information Technology,4,Art
+1254,Geology,Student_1254,26,1.97,Female,Minerals,4,Chess
+1255,IT,Student_1255,27,0.69,Male,Software Development,4,Youga
+1256,Business,Student_1256,19,1.43,Male,Marketing Entrepreneurship and Innovation Management,4,Football
+1257,Geology,Student_1257,27,1.51,Male,Crystals,4,Chess
+1258,Business,Student_1258,29,2.8,Male,Finance and Investment Management,4,Youga
+1259,Business,Student_1259,20,0.34,Female,Finance and Investment Management,4,Youga
+1260,Geology,Student_1260,29,0.96,Female,Crystals,4,Chess
+1261,Geology,Student_1261,20,2.41,Male,Minerals,3,Youga
+1262,IT,Student_1262,20,0.36,Male,Software Development,1,Art
+1263,Science,Student_1263,19,3.04,Female,Mathematics,3,Football
+1264,Engineering,Student_1264,26,1.71,Male,Mechanical design and production department,4,Chess
+1265,IT,Student_1265,24,1.13,Male,Software Development,3,Youga
+1266,Engineering,Student_1266,19,0.08,Female,Public works department,5,Football
+1267,Engineering,Student_1267,28,3.54,Male,Renewable Energy Engineering,4,Youga
+1268,Business,Student_1268,30,3.57,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+1269,IT,Student_1269,17,1.54,Female,Data Science and Artificial Intelligence,1,Youga
+1270,Geology,Student_1270,27,3.5,Female,Crystals,4,Art
+1271,Engineering,Student_1271,19,2.57,Male,Power Engineering,1,Football
+1272,Science,Student_1272,19,2.87,Male,Biochemistry,5,Art
+1273,Business,Student_1273,17,0.91,Male,Marketing Entrepreneurship and Innovation Management,4,Youga
+1274,Science,Student_1274,17,1.92,Male,Geology,4,Chess
+1275,Geology,Student_1275,18,2.88,Female,Earth Geology,1,Football
+1276,Geology,Student_1276,29,0.21,Female,Minerals,4,Football
+1277,IT,Student_1277,24,2.85,Male,Information Technology,3,Football
+1278,Engineering,Student_1278,20,3.82,Male,Power Engineering,3,Football
+1279,Engineering,Student_1279,16,3.84,Female,Power Engineering,4,Youga
+1280,IT,Student_1280,25,0.51,Male,Information Technology,4,Youga
+1281,Science,Student_1281,23,3.08,Male,Physics,2,Chess
+1282,Geology,Student_1282,30,0.18,Male,Crystals,4,Chess
+1283,Business,Student_1283,30,2.26,Female,Finance and Investment Management,4,Art
+1284,IT,Student_1284,18,0.32,Female,Information Technology,1,Youga
+1285,Science,Student_1285,21,0.4,Female,Geology,4,Chess
+1286,IT,Student_1286,22,2.45,Male,Data Science and Artificial Intelligence,1,Football
+1287,Business,Student_1287,25,1.94,Female,Marketing Entrepreneurship and Innovation Management,4,Chess
+1288,Engineering,Student_1288,18,1.97,Male,Public works department,1,Chess
+1289,Science,Student_1289,29,1.25,Female,Biochemistry,4,Chess
+1290,Geology,Student_1290,28,3.23,Male,Minerals,4,Chess
+1291,IT,Student_1291,18,2.06,Male,Software Development,1,Art
+1292,Business,Student_1292,17,2.12,Female,Marketing Entrepreneurship and Innovation Management,4,Art
+1293,Geology,Student_1293,16,1.49,Male,Crystals,1,Art
+1294,Business,Student_1294,26,0.58,Female,Finance and Investment Management,4,Art
+1295,Engineering,Student_1295,25,1.96,Female,Mechanical design and production department,4,Football
+1296,Engineering,Student_1296,22,1.38,Female,Power Engineering,1,Art
+1297,IT,Student_1297,17,1.64,Male,Information Technology,3,Chess
+1298,Engineering,Student_1298,28,0.46,Female,Power Engineering,4,Chess
+1299,IT,Student_1299,30,2.85,Female,Software Development,4,Chess
+1300,IT,Student_1300,20,2.86,Male,Information Technology,1,Football

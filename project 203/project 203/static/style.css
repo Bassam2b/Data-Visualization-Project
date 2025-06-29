@@ -1,0 +1,33 @@
+#chartdiv{
+    width: 50%;
+    height: 300px;
+    top: 0;
+    right: 0;
+    position: fixed;
+}
+
+#datadiv{
+    width: 50%;
+    height: 250px;
+    top: 0;
+    left: 0;
+    position: fixed;
+    margin-top:50px;
+}
+
+#loldiv{
+    width: 50%;
+    height: 300px;
+    bottom: 0;
+    right: 0;
+    position: fixed
+}
+
+#mixdiv{
+    width: 50%;
+    height: 300px;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+}
+
